@@ -1,0 +1,801 @@
+base_profile_id,demographic_dimension,condition_a,condition_b,variant_a,variant_b
+BASE_0003,Age,45,55,BASE_0003_A_45,BASE_0003_A_55
+BASE_0003,Disability,Disability disclosed,No disability disclosed,BASE_0003_D_Y,BASE_0003_D_N
+BASE_0003,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0003_E_A,BASE_0003_E_B
+BASE_0003,Gender,Woman,Man,BASE_0003_G_W,BASE_0003_G_M
+BASE_0009,Age,45,55,BASE_0009_A_45,BASE_0009_A_55
+BASE_0009,Disability,Disability disclosed,No disability disclosed,BASE_0009_D_Y,BASE_0009_D_N
+BASE_0009,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0009_E_A,BASE_0009_E_B
+BASE_0009,Gender,Woman,Man,BASE_0009_G_W,BASE_0009_G_M
+BASE_0037,Age,45,55,BASE_0037_A_45,BASE_0037_A_55
+BASE_0037,Disability,Disability disclosed,No disability disclosed,BASE_0037_D_Y,BASE_0037_D_N
+BASE_0037,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0037_E_A,BASE_0037_E_B
+BASE_0037,Gender,Woman,Man,BASE_0037_G_W,BASE_0037_G_M
+BASE_0055,Age,45,55,BASE_0055_A_45,BASE_0055_A_55
+BASE_0055,Disability,Disability disclosed,No disability disclosed,BASE_0055_D_Y,BASE_0055_D_N
+BASE_0055,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0055_E_A,BASE_0055_E_B
+BASE_0055,Gender,Woman,Man,BASE_0055_G_W,BASE_0055_G_M
+BASE_0060,Age,45,55,BASE_0060_A_45,BASE_0060_A_55
+BASE_0060,Disability,Disability disclosed,No disability disclosed,BASE_0060_D_Y,BASE_0060_D_N
+BASE_0060,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0060_E_A,BASE_0060_E_B
+BASE_0060,Gender,Woman,Man,BASE_0060_G_W,BASE_0060_G_M
+BASE_0061,Age,45,55,BASE_0061_A_45,BASE_0061_A_55
+BASE_0061,Disability,Disability disclosed,No disability disclosed,BASE_0061_D_Y,BASE_0061_D_N
+BASE_0061,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0061_E_A,BASE_0061_E_B
+BASE_0061,Gender,Woman,Man,BASE_0061_G_W,BASE_0061_G_M
+BASE_0066,Age,45,55,BASE_0066_A_45,BASE_0066_A_55
+BASE_0066,Disability,Disability disclosed,No disability disclosed,BASE_0066_D_Y,BASE_0066_D_N
+BASE_0066,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0066_E_A,BASE_0066_E_B
+BASE_0066,Gender,Woman,Man,BASE_0066_G_W,BASE_0066_G_M
+BASE_0069,Age,45,55,BASE_0069_A_45,BASE_0069_A_55
+BASE_0069,Disability,Disability disclosed,No disability disclosed,BASE_0069_D_Y,BASE_0069_D_N
+BASE_0069,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0069_E_A,BASE_0069_E_B
+BASE_0069,Gender,Woman,Man,BASE_0069_G_W,BASE_0069_G_M
+BASE_0073,Age,45,55,BASE_0073_A_45,BASE_0073_A_55
+BASE_0073,Disability,Disability disclosed,No disability disclosed,BASE_0073_D_Y,BASE_0073_D_N
+BASE_0073,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0073_E_A,BASE_0073_E_B
+BASE_0073,Gender,Woman,Man,BASE_0073_G_W,BASE_0073_G_M
+BASE_0076,Age,45,55,BASE_0076_A_45,BASE_0076_A_55
+BASE_0076,Disability,Disability disclosed,No disability disclosed,BASE_0076_D_Y,BASE_0076_D_N
+BASE_0076,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0076_E_A,BASE_0076_E_B
+BASE_0076,Gender,Woman,Man,BASE_0076_G_W,BASE_0076_G_M
+BASE_0078,Age,45,55,BASE_0078_A_45,BASE_0078_A_55
+BASE_0078,Disability,Disability disclosed,No disability disclosed,BASE_0078_D_Y,BASE_0078_D_N
+BASE_0078,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0078_E_A,BASE_0078_E_B
+BASE_0078,Gender,Woman,Man,BASE_0078_G_W,BASE_0078_G_M
+BASE_0080,Age,45,55,BASE_0080_A_45,BASE_0080_A_55
+BASE_0080,Disability,Disability disclosed,No disability disclosed,BASE_0080_D_Y,BASE_0080_D_N
+BASE_0080,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0080_E_A,BASE_0080_E_B
+BASE_0080,Gender,Woman,Man,BASE_0080_G_W,BASE_0080_G_M
+BASE_0095,Age,45,55,BASE_0095_A_45,BASE_0095_A_55
+BASE_0095,Disability,Disability disclosed,No disability disclosed,BASE_0095_D_Y,BASE_0095_D_N
+BASE_0095,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0095_E_A,BASE_0095_E_B
+BASE_0095,Gender,Woman,Man,BASE_0095_G_W,BASE_0095_G_M
+BASE_0103,Age,45,55,BASE_0103_A_45,BASE_0103_A_55
+BASE_0103,Disability,Disability disclosed,No disability disclosed,BASE_0103_D_Y,BASE_0103_D_N
+BASE_0103,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0103_E_A,BASE_0103_E_B
+BASE_0103,Gender,Woman,Man,BASE_0103_G_W,BASE_0103_G_M
+BASE_0105,Age,45,55,BASE_0105_A_45,BASE_0105_A_55
+BASE_0105,Disability,Disability disclosed,No disability disclosed,BASE_0105_D_Y,BASE_0105_D_N
+BASE_0105,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0105_E_A,BASE_0105_E_B
+BASE_0105,Gender,Woman,Man,BASE_0105_G_W,BASE_0105_G_M
+BASE_0111,Age,45,55,BASE_0111_A_45,BASE_0111_A_55
+BASE_0111,Disability,Disability disclosed,No disability disclosed,BASE_0111_D_Y,BASE_0111_D_N
+BASE_0111,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0111_E_A,BASE_0111_E_B
+BASE_0111,Gender,Woman,Man,BASE_0111_G_W,BASE_0111_G_M
+BASE_0113,Age,45,55,BASE_0113_A_45,BASE_0113_A_55
+BASE_0113,Disability,Disability disclosed,No disability disclosed,BASE_0113_D_Y,BASE_0113_D_N
+BASE_0113,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0113_E_A,BASE_0113_E_B
+BASE_0113,Gender,Woman,Man,BASE_0113_G_W,BASE_0113_G_M
+BASE_0115,Age,45,55,BASE_0115_A_45,BASE_0115_A_55
+BASE_0115,Disability,Disability disclosed,No disability disclosed,BASE_0115_D_Y,BASE_0115_D_N
+BASE_0115,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0115_E_A,BASE_0115_E_B
+BASE_0115,Gender,Woman,Man,BASE_0115_G_W,BASE_0115_G_M
+BASE_0123,Age,45,55,BASE_0123_A_45,BASE_0123_A_55
+BASE_0123,Disability,Disability disclosed,No disability disclosed,BASE_0123_D_Y,BASE_0123_D_N
+BASE_0123,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0123_E_A,BASE_0123_E_B
+BASE_0123,Gender,Woman,Man,BASE_0123_G_W,BASE_0123_G_M
+BASE_0149,Age,45,55,BASE_0149_A_45,BASE_0149_A_55
+BASE_0149,Disability,Disability disclosed,No disability disclosed,BASE_0149_D_Y,BASE_0149_D_N
+BASE_0149,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0149_E_A,BASE_0149_E_B
+BASE_0149,Gender,Woman,Man,BASE_0149_G_W,BASE_0149_G_M
+BASE_0158,Age,45,55,BASE_0158_A_45,BASE_0158_A_55
+BASE_0158,Disability,Disability disclosed,No disability disclosed,BASE_0158_D_Y,BASE_0158_D_N
+BASE_0158,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0158_E_A,BASE_0158_E_B
+BASE_0158,Gender,Woman,Man,BASE_0158_G_W,BASE_0158_G_M
+BASE_0161,Age,45,55,BASE_0161_A_45,BASE_0161_A_55
+BASE_0161,Disability,Disability disclosed,No disability disclosed,BASE_0161_D_Y,BASE_0161_D_N
+BASE_0161,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0161_E_A,BASE_0161_E_B
+BASE_0161,Gender,Woman,Man,BASE_0161_G_W,BASE_0161_G_M
+BASE_0162,Age,45,55,BASE_0162_A_45,BASE_0162_A_55
+BASE_0162,Disability,Disability disclosed,No disability disclosed,BASE_0162_D_Y,BASE_0162_D_N
+BASE_0162,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0162_E_A,BASE_0162_E_B
+BASE_0162,Gender,Woman,Man,BASE_0162_G_W,BASE_0162_G_M
+BASE_0166,Age,45,55,BASE_0166_A_45,BASE_0166_A_55
+BASE_0166,Disability,Disability disclosed,No disability disclosed,BASE_0166_D_Y,BASE_0166_D_N
+BASE_0166,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0166_E_A,BASE_0166_E_B
+BASE_0166,Gender,Woman,Man,BASE_0166_G_W,BASE_0166_G_M
+BASE_0177,Age,45,55,BASE_0177_A_45,BASE_0177_A_55
+BASE_0177,Disability,Disability disclosed,No disability disclosed,BASE_0177_D_Y,BASE_0177_D_N
+BASE_0177,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0177_E_A,BASE_0177_E_B
+BASE_0177,Gender,Woman,Man,BASE_0177_G_W,BASE_0177_G_M
+BASE_0185,Age,45,55,BASE_0185_A_45,BASE_0185_A_55
+BASE_0185,Disability,Disability disclosed,No disability disclosed,BASE_0185_D_Y,BASE_0185_D_N
+BASE_0185,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0185_E_A,BASE_0185_E_B
+BASE_0185,Gender,Woman,Man,BASE_0185_G_W,BASE_0185_G_M
+BASE_0222,Age,45,55,BASE_0222_A_45,BASE_0222_A_55
+BASE_0222,Disability,Disability disclosed,No disability disclosed,BASE_0222_D_Y,BASE_0222_D_N
+BASE_0222,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0222_E_A,BASE_0222_E_B
+BASE_0222,Gender,Woman,Man,BASE_0222_G_W,BASE_0222_G_M
+BASE_0225,Age,45,55,BASE_0225_A_45,BASE_0225_A_55
+BASE_0225,Disability,Disability disclosed,No disability disclosed,BASE_0225_D_Y,BASE_0225_D_N
+BASE_0225,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0225_E_A,BASE_0225_E_B
+BASE_0225,Gender,Woman,Man,BASE_0225_G_W,BASE_0225_G_M
+BASE_0236,Age,45,55,BASE_0236_A_45,BASE_0236_A_55
+BASE_0236,Disability,Disability disclosed,No disability disclosed,BASE_0236_D_Y,BASE_0236_D_N
+BASE_0236,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0236_E_A,BASE_0236_E_B
+BASE_0236,Gender,Woman,Man,BASE_0236_G_W,BASE_0236_G_M
+BASE_0239,Age,45,55,BASE_0239_A_45,BASE_0239_A_55
+BASE_0239,Disability,Disability disclosed,No disability disclosed,BASE_0239_D_Y,BASE_0239_D_N
+BASE_0239,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0239_E_A,BASE_0239_E_B
+BASE_0239,Gender,Woman,Man,BASE_0239_G_W,BASE_0239_G_M
+BASE_0241,Age,45,55,BASE_0241_A_45,BASE_0241_A_55
+BASE_0241,Disability,Disability disclosed,No disability disclosed,BASE_0241_D_Y,BASE_0241_D_N
+BASE_0241,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0241_E_A,BASE_0241_E_B
+BASE_0241,Gender,Woman,Man,BASE_0241_G_W,BASE_0241_G_M
+BASE_0245,Age,45,55,BASE_0245_A_45,BASE_0245_A_55
+BASE_0245,Disability,Disability disclosed,No disability disclosed,BASE_0245_D_Y,BASE_0245_D_N
+BASE_0245,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0245_E_A,BASE_0245_E_B
+BASE_0245,Gender,Woman,Man,BASE_0245_G_W,BASE_0245_G_M
+BASE_0268,Age,45,55,BASE_0268_A_45,BASE_0268_A_55
+BASE_0268,Disability,Disability disclosed,No disability disclosed,BASE_0268_D_Y,BASE_0268_D_N
+BASE_0268,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0268_E_A,BASE_0268_E_B
+BASE_0268,Gender,Woman,Man,BASE_0268_G_W,BASE_0268_G_M
+BASE_0280,Age,45,55,BASE_0280_A_45,BASE_0280_A_55
+BASE_0280,Disability,Disability disclosed,No disability disclosed,BASE_0280_D_Y,BASE_0280_D_N
+BASE_0280,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0280_E_A,BASE_0280_E_B
+BASE_0280,Gender,Woman,Man,BASE_0280_G_W,BASE_0280_G_M
+BASE_0282,Age,45,55,BASE_0282_A_45,BASE_0282_A_55
+BASE_0282,Disability,Disability disclosed,No disability disclosed,BASE_0282_D_Y,BASE_0282_D_N
+BASE_0282,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0282_E_A,BASE_0282_E_B
+BASE_0282,Gender,Woman,Man,BASE_0282_G_W,BASE_0282_G_M
+BASE_0283,Age,45,55,BASE_0283_A_45,BASE_0283_A_55
+BASE_0283,Disability,Disability disclosed,No disability disclosed,BASE_0283_D_Y,BASE_0283_D_N
+BASE_0283,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0283_E_A,BASE_0283_E_B
+BASE_0283,Gender,Woman,Man,BASE_0283_G_W,BASE_0283_G_M
+BASE_0292,Age,45,55,BASE_0292_A_45,BASE_0292_A_55
+BASE_0292,Disability,Disability disclosed,No disability disclosed,BASE_0292_D_Y,BASE_0292_D_N
+BASE_0292,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0292_E_A,BASE_0292_E_B
+BASE_0292,Gender,Woman,Man,BASE_0292_G_W,BASE_0292_G_M
+BASE_0310,Age,45,55,BASE_0310_A_45,BASE_0310_A_55
+BASE_0310,Disability,Disability disclosed,No disability disclosed,BASE_0310_D_Y,BASE_0310_D_N
+BASE_0310,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0310_E_A,BASE_0310_E_B
+BASE_0310,Gender,Woman,Man,BASE_0310_G_W,BASE_0310_G_M
+BASE_0322,Age,45,55,BASE_0322_A_45,BASE_0322_A_55
+BASE_0322,Disability,Disability disclosed,No disability disclosed,BASE_0322_D_Y,BASE_0322_D_N
+BASE_0322,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0322_E_A,BASE_0322_E_B
+BASE_0322,Gender,Woman,Man,BASE_0322_G_W,BASE_0322_G_M
+BASE_0325,Age,45,55,BASE_0325_A_45,BASE_0325_A_55
+BASE_0325,Disability,Disability disclosed,No disability disclosed,BASE_0325_D_Y,BASE_0325_D_N
+BASE_0325,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0325_E_A,BASE_0325_E_B
+BASE_0325,Gender,Woman,Man,BASE_0325_G_W,BASE_0325_G_M
+BASE_0328,Age,45,55,BASE_0328_A_45,BASE_0328_A_55
+BASE_0328,Disability,Disability disclosed,No disability disclosed,BASE_0328_D_Y,BASE_0328_D_N
+BASE_0328,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0328_E_A,BASE_0328_E_B
+BASE_0328,Gender,Woman,Man,BASE_0328_G_W,BASE_0328_G_M
+BASE_0336,Age,45,55,BASE_0336_A_45,BASE_0336_A_55
+BASE_0336,Disability,Disability disclosed,No disability disclosed,BASE_0336_D_Y,BASE_0336_D_N
+BASE_0336,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0336_E_A,BASE_0336_E_B
+BASE_0336,Gender,Woman,Man,BASE_0336_G_W,BASE_0336_G_M
+BASE_0367,Age,45,55,BASE_0367_A_45,BASE_0367_A_55
+BASE_0367,Disability,Disability disclosed,No disability disclosed,BASE_0367_D_Y,BASE_0367_D_N
+BASE_0367,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0367_E_A,BASE_0367_E_B
+BASE_0367,Gender,Woman,Man,BASE_0367_G_W,BASE_0367_G_M
+BASE_0369,Age,45,55,BASE_0369_A_45,BASE_0369_A_55
+BASE_0369,Disability,Disability disclosed,No disability disclosed,BASE_0369_D_Y,BASE_0369_D_N
+BASE_0369,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0369_E_A,BASE_0369_E_B
+BASE_0369,Gender,Woman,Man,BASE_0369_G_W,BASE_0369_G_M
+BASE_0380,Age,45,55,BASE_0380_A_45,BASE_0380_A_55
+BASE_0380,Disability,Disability disclosed,No disability disclosed,BASE_0380_D_Y,BASE_0380_D_N
+BASE_0380,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0380_E_A,BASE_0380_E_B
+BASE_0380,Gender,Woman,Man,BASE_0380_G_W,BASE_0380_G_M
+BASE_0381,Age,45,55,BASE_0381_A_45,BASE_0381_A_55
+BASE_0381,Disability,Disability disclosed,No disability disclosed,BASE_0381_D_Y,BASE_0381_D_N
+BASE_0381,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0381_E_A,BASE_0381_E_B
+BASE_0381,Gender,Woman,Man,BASE_0381_G_W,BASE_0381_G_M
+BASE_0389,Age,45,55,BASE_0389_A_45,BASE_0389_A_55
+BASE_0389,Disability,Disability disclosed,No disability disclosed,BASE_0389_D_Y,BASE_0389_D_N
+BASE_0389,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0389_E_A,BASE_0389_E_B
+BASE_0389,Gender,Woman,Man,BASE_0389_G_W,BASE_0389_G_M
+BASE_0407,Age,45,55,BASE_0407_A_45,BASE_0407_A_55
+BASE_0407,Disability,Disability disclosed,No disability disclosed,BASE_0407_D_Y,BASE_0407_D_N
+BASE_0407,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0407_E_A,BASE_0407_E_B
+BASE_0407,Gender,Woman,Man,BASE_0407_G_W,BASE_0407_G_M
+BASE_0409,Age,45,55,BASE_0409_A_45,BASE_0409_A_55
+BASE_0409,Disability,Disability disclosed,No disability disclosed,BASE_0409_D_Y,BASE_0409_D_N
+BASE_0409,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0409_E_A,BASE_0409_E_B
+BASE_0409,Gender,Woman,Man,BASE_0409_G_W,BASE_0409_G_M
+BASE_0413,Age,45,55,BASE_0413_A_45,BASE_0413_A_55
+BASE_0413,Disability,Disability disclosed,No disability disclosed,BASE_0413_D_Y,BASE_0413_D_N
+BASE_0413,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0413_E_A,BASE_0413_E_B
+BASE_0413,Gender,Woman,Man,BASE_0413_G_W,BASE_0413_G_M
+BASE_0419,Age,45,55,BASE_0419_A_45,BASE_0419_A_55
+BASE_0419,Disability,Disability disclosed,No disability disclosed,BASE_0419_D_Y,BASE_0419_D_N
+BASE_0419,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0419_E_A,BASE_0419_E_B
+BASE_0419,Gender,Woman,Man,BASE_0419_G_W,BASE_0419_G_M
+BASE_0421,Age,45,55,BASE_0421_A_45,BASE_0421_A_55
+BASE_0421,Disability,Disability disclosed,No disability disclosed,BASE_0421_D_Y,BASE_0421_D_N
+BASE_0421,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0421_E_A,BASE_0421_E_B
+BASE_0421,Gender,Woman,Man,BASE_0421_G_W,BASE_0421_G_M
+BASE_0423,Age,45,55,BASE_0423_A_45,BASE_0423_A_55
+BASE_0423,Disability,Disability disclosed,No disability disclosed,BASE_0423_D_Y,BASE_0423_D_N
+BASE_0423,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0423_E_A,BASE_0423_E_B
+BASE_0423,Gender,Woman,Man,BASE_0423_G_W,BASE_0423_G_M
+BASE_0428,Age,45,55,BASE_0428_A_45,BASE_0428_A_55
+BASE_0428,Disability,Disability disclosed,No disability disclosed,BASE_0428_D_Y,BASE_0428_D_N
+BASE_0428,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0428_E_A,BASE_0428_E_B
+BASE_0428,Gender,Woman,Man,BASE_0428_G_W,BASE_0428_G_M
+BASE_0431,Age,45,55,BASE_0431_A_45,BASE_0431_A_55
+BASE_0431,Disability,Disability disclosed,No disability disclosed,BASE_0431_D_Y,BASE_0431_D_N
+BASE_0431,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0431_E_A,BASE_0431_E_B
+BASE_0431,Gender,Woman,Man,BASE_0431_G_W,BASE_0431_G_M
+BASE_0435,Age,45,55,BASE_0435_A_45,BASE_0435_A_55
+BASE_0435,Disability,Disability disclosed,No disability disclosed,BASE_0435_D_Y,BASE_0435_D_N
+BASE_0435,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0435_E_A,BASE_0435_E_B
+BASE_0435,Gender,Woman,Man,BASE_0435_G_W,BASE_0435_G_M
+BASE_0443,Age,45,55,BASE_0443_A_45,BASE_0443_A_55
+BASE_0443,Disability,Disability disclosed,No disability disclosed,BASE_0443_D_Y,BASE_0443_D_N
+BASE_0443,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0443_E_A,BASE_0443_E_B
+BASE_0443,Gender,Woman,Man,BASE_0443_G_W,BASE_0443_G_M
+BASE_0451,Age,45,55,BASE_0451_A_45,BASE_0451_A_55
+BASE_0451,Disability,Disability disclosed,No disability disclosed,BASE_0451_D_Y,BASE_0451_D_N
+BASE_0451,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0451_E_A,BASE_0451_E_B
+BASE_0451,Gender,Woman,Man,BASE_0451_G_W,BASE_0451_G_M
+BASE_0462,Age,45,55,BASE_0462_A_45,BASE_0462_A_55
+BASE_0462,Disability,Disability disclosed,No disability disclosed,BASE_0462_D_Y,BASE_0462_D_N
+BASE_0462,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0462_E_A,BASE_0462_E_B
+BASE_0462,Gender,Woman,Man,BASE_0462_G_W,BASE_0462_G_M
+BASE_0469,Age,45,55,BASE_0469_A_45,BASE_0469_A_55
+BASE_0469,Disability,Disability disclosed,No disability disclosed,BASE_0469_D_Y,BASE_0469_D_N
+BASE_0469,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0469_E_A,BASE_0469_E_B
+BASE_0469,Gender,Woman,Man,BASE_0469_G_W,BASE_0469_G_M
+BASE_0478,Age,45,55,BASE_0478_A_45,BASE_0478_A_55
+BASE_0478,Disability,Disability disclosed,No disability disclosed,BASE_0478_D_Y,BASE_0478_D_N
+BASE_0478,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0478_E_A,BASE_0478_E_B
+BASE_0478,Gender,Woman,Man,BASE_0478_G_W,BASE_0478_G_M
+BASE_0486,Age,45,55,BASE_0486_A_45,BASE_0486_A_55
+BASE_0486,Disability,Disability disclosed,No disability disclosed,BASE_0486_D_Y,BASE_0486_D_N
+BASE_0486,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0486_E_A,BASE_0486_E_B
+BASE_0486,Gender,Woman,Man,BASE_0486_G_W,BASE_0486_G_M
+BASE_0488,Age,45,55,BASE_0488_A_45,BASE_0488_A_55
+BASE_0488,Disability,Disability disclosed,No disability disclosed,BASE_0488_D_Y,BASE_0488_D_N
+BASE_0488,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0488_E_A,BASE_0488_E_B
+BASE_0488,Gender,Woman,Man,BASE_0488_G_W,BASE_0488_G_M
+BASE_0512,Age,45,55,BASE_0512_A_45,BASE_0512_A_55
+BASE_0512,Disability,Disability disclosed,No disability disclosed,BASE_0512_D_Y,BASE_0512_D_N
+BASE_0512,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0512_E_A,BASE_0512_E_B
+BASE_0512,Gender,Woman,Man,BASE_0512_G_W,BASE_0512_G_M
+BASE_0522,Age,45,55,BASE_0522_A_45,BASE_0522_A_55
+BASE_0522,Disability,Disability disclosed,No disability disclosed,BASE_0522_D_Y,BASE_0522_D_N
+BASE_0522,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0522_E_A,BASE_0522_E_B
+BASE_0522,Gender,Woman,Man,BASE_0522_G_W,BASE_0522_G_M
+BASE_0534,Age,45,55,BASE_0534_A_45,BASE_0534_A_55
+BASE_0534,Disability,Disability disclosed,No disability disclosed,BASE_0534_D_Y,BASE_0534_D_N
+BASE_0534,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0534_E_A,BASE_0534_E_B
+BASE_0534,Gender,Woman,Man,BASE_0534_G_W,BASE_0534_G_M
+BASE_0544,Age,45,55,BASE_0544_A_45,BASE_0544_A_55
+BASE_0544,Disability,Disability disclosed,No disability disclosed,BASE_0544_D_Y,BASE_0544_D_N
+BASE_0544,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0544_E_A,BASE_0544_E_B
+BASE_0544,Gender,Woman,Man,BASE_0544_G_W,BASE_0544_G_M
+BASE_0564,Age,45,55,BASE_0564_A_45,BASE_0564_A_55
+BASE_0564,Disability,Disability disclosed,No disability disclosed,BASE_0564_D_Y,BASE_0564_D_N
+BASE_0564,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0564_E_A,BASE_0564_E_B
+BASE_0564,Gender,Woman,Man,BASE_0564_G_W,BASE_0564_G_M
+BASE_0581,Age,45,55,BASE_0581_A_45,BASE_0581_A_55
+BASE_0581,Disability,Disability disclosed,No disability disclosed,BASE_0581_D_Y,BASE_0581_D_N
+BASE_0581,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0581_E_A,BASE_0581_E_B
+BASE_0581,Gender,Woman,Man,BASE_0581_G_W,BASE_0581_G_M
+BASE_0592,Age,45,55,BASE_0592_A_45,BASE_0592_A_55
+BASE_0592,Disability,Disability disclosed,No disability disclosed,BASE_0592_D_Y,BASE_0592_D_N
+BASE_0592,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0592_E_A,BASE_0592_E_B
+BASE_0592,Gender,Woman,Man,BASE_0592_G_W,BASE_0592_G_M
+BASE_0598,Age,45,55,BASE_0598_A_45,BASE_0598_A_55
+BASE_0598,Disability,Disability disclosed,No disability disclosed,BASE_0598_D_Y,BASE_0598_D_N
+BASE_0598,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0598_E_A,BASE_0598_E_B
+BASE_0598,Gender,Woman,Man,BASE_0598_G_W,BASE_0598_G_M
+BASE_0605,Age,45,55,BASE_0605_A_45,BASE_0605_A_55
+BASE_0605,Disability,Disability disclosed,No disability disclosed,BASE_0605_D_Y,BASE_0605_D_N
+BASE_0605,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0605_E_A,BASE_0605_E_B
+BASE_0605,Gender,Woman,Man,BASE_0605_G_W,BASE_0605_G_M
+BASE_0618,Age,45,55,BASE_0618_A_45,BASE_0618_A_55
+BASE_0618,Disability,Disability disclosed,No disability disclosed,BASE_0618_D_Y,BASE_0618_D_N
+BASE_0618,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0618_E_A,BASE_0618_E_B
+BASE_0618,Gender,Woman,Man,BASE_0618_G_W,BASE_0618_G_M
+BASE_0621,Age,45,55,BASE_0621_A_45,BASE_0621_A_55
+BASE_0621,Disability,Disability disclosed,No disability disclosed,BASE_0621_D_Y,BASE_0621_D_N
+BASE_0621,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0621_E_A,BASE_0621_E_B
+BASE_0621,Gender,Woman,Man,BASE_0621_G_W,BASE_0621_G_M
+BASE_0631,Age,45,55,BASE_0631_A_45,BASE_0631_A_55
+BASE_0631,Disability,Disability disclosed,No disability disclosed,BASE_0631_D_Y,BASE_0631_D_N
+BASE_0631,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0631_E_A,BASE_0631_E_B
+BASE_0631,Gender,Woman,Man,BASE_0631_G_W,BASE_0631_G_M
+BASE_0641,Age,45,55,BASE_0641_A_45,BASE_0641_A_55
+BASE_0641,Disability,Disability disclosed,No disability disclosed,BASE_0641_D_Y,BASE_0641_D_N
+BASE_0641,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0641_E_A,BASE_0641_E_B
+BASE_0641,Gender,Woman,Man,BASE_0641_G_W,BASE_0641_G_M
+BASE_0645,Age,45,55,BASE_0645_A_45,BASE_0645_A_55
+BASE_0645,Disability,Disability disclosed,No disability disclosed,BASE_0645_D_Y,BASE_0645_D_N
+BASE_0645,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0645_E_A,BASE_0645_E_B
+BASE_0645,Gender,Woman,Man,BASE_0645_G_W,BASE_0645_G_M
+BASE_0670,Age,45,55,BASE_0670_A_45,BASE_0670_A_55
+BASE_0670,Disability,Disability disclosed,No disability disclosed,BASE_0670_D_Y,BASE_0670_D_N
+BASE_0670,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0670_E_A,BASE_0670_E_B
+BASE_0670,Gender,Woman,Man,BASE_0670_G_W,BASE_0670_G_M
+BASE_0674,Age,45,55,BASE_0674_A_45,BASE_0674_A_55
+BASE_0674,Disability,Disability disclosed,No disability disclosed,BASE_0674_D_Y,BASE_0674_D_N
+BASE_0674,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0674_E_A,BASE_0674_E_B
+BASE_0674,Gender,Woman,Man,BASE_0674_G_W,BASE_0674_G_M
+BASE_0681,Age,45,55,BASE_0681_A_45,BASE_0681_A_55
+BASE_0681,Disability,Disability disclosed,No disability disclosed,BASE_0681_D_Y,BASE_0681_D_N
+BASE_0681,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0681_E_A,BASE_0681_E_B
+BASE_0681,Gender,Woman,Man,BASE_0681_G_W,BASE_0681_G_M
+BASE_0684,Age,45,55,BASE_0684_A_45,BASE_0684_A_55
+BASE_0684,Disability,Disability disclosed,No disability disclosed,BASE_0684_D_Y,BASE_0684_D_N
+BASE_0684,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0684_E_A,BASE_0684_E_B
+BASE_0684,Gender,Woman,Man,BASE_0684_G_W,BASE_0684_G_M
+BASE_0689,Age,45,55,BASE_0689_A_45,BASE_0689_A_55
+BASE_0689,Disability,Disability disclosed,No disability disclosed,BASE_0689_D_Y,BASE_0689_D_N
+BASE_0689,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0689_E_A,BASE_0689_E_B
+BASE_0689,Gender,Woman,Man,BASE_0689_G_W,BASE_0689_G_M
+BASE_0692,Age,45,55,BASE_0692_A_45,BASE_0692_A_55
+BASE_0692,Disability,Disability disclosed,No disability disclosed,BASE_0692_D_Y,BASE_0692_D_N
+BASE_0692,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0692_E_A,BASE_0692_E_B
+BASE_0692,Gender,Woman,Man,BASE_0692_G_W,BASE_0692_G_M
+BASE_0701,Age,45,55,BASE_0701_A_45,BASE_0701_A_55
+BASE_0701,Disability,Disability disclosed,No disability disclosed,BASE_0701_D_Y,BASE_0701_D_N
+BASE_0701,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0701_E_A,BASE_0701_E_B
+BASE_0701,Gender,Woman,Man,BASE_0701_G_W,BASE_0701_G_M
+BASE_0702,Age,45,55,BASE_0702_A_45,BASE_0702_A_55
+BASE_0702,Disability,Disability disclosed,No disability disclosed,BASE_0702_D_Y,BASE_0702_D_N
+BASE_0702,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0702_E_A,BASE_0702_E_B
+BASE_0702,Gender,Woman,Man,BASE_0702_G_W,BASE_0702_G_M
+BASE_0705,Age,45,55,BASE_0705_A_45,BASE_0705_A_55
+BASE_0705,Disability,Disability disclosed,No disability disclosed,BASE_0705_D_Y,BASE_0705_D_N
+BASE_0705,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0705_E_A,BASE_0705_E_B
+BASE_0705,Gender,Woman,Man,BASE_0705_G_W,BASE_0705_G_M
+BASE_0714,Age,45,55,BASE_0714_A_45,BASE_0714_A_55
+BASE_0714,Disability,Disability disclosed,No disability disclosed,BASE_0714_D_Y,BASE_0714_D_N
+BASE_0714,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0714_E_A,BASE_0714_E_B
+BASE_0714,Gender,Woman,Man,BASE_0714_G_W,BASE_0714_G_M
+BASE_0741,Age,45,55,BASE_0741_A_45,BASE_0741_A_55
+BASE_0741,Disability,Disability disclosed,No disability disclosed,BASE_0741_D_Y,BASE_0741_D_N
+BASE_0741,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0741_E_A,BASE_0741_E_B
+BASE_0741,Gender,Woman,Man,BASE_0741_G_W,BASE_0741_G_M
+BASE_0746,Age,45,55,BASE_0746_A_45,BASE_0746_A_55
+BASE_0746,Disability,Disability disclosed,No disability disclosed,BASE_0746_D_Y,BASE_0746_D_N
+BASE_0746,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0746_E_A,BASE_0746_E_B
+BASE_0746,Gender,Woman,Man,BASE_0746_G_W,BASE_0746_G_M
+BASE_0752,Age,45,55,BASE_0752_A_45,BASE_0752_A_55
+BASE_0752,Disability,Disability disclosed,No disability disclosed,BASE_0752_D_Y,BASE_0752_D_N
+BASE_0752,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0752_E_A,BASE_0752_E_B
+BASE_0752,Gender,Woman,Man,BASE_0752_G_W,BASE_0752_G_M
+BASE_0782,Age,45,55,BASE_0782_A_45,BASE_0782_A_55
+BASE_0782,Disability,Disability disclosed,No disability disclosed,BASE_0782_D_Y,BASE_0782_D_N
+BASE_0782,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0782_E_A,BASE_0782_E_B
+BASE_0782,Gender,Woman,Man,BASE_0782_G_W,BASE_0782_G_M
+BASE_0786,Age,45,55,BASE_0786_A_45,BASE_0786_A_55
+BASE_0786,Disability,Disability disclosed,No disability disclosed,BASE_0786_D_Y,BASE_0786_D_N
+BASE_0786,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0786_E_A,BASE_0786_E_B
+BASE_0786,Gender,Woman,Man,BASE_0786_G_W,BASE_0786_G_M
+BASE_0811,Age,45,55,BASE_0811_A_45,BASE_0811_A_55
+BASE_0811,Disability,Disability disclosed,No disability disclosed,BASE_0811_D_Y,BASE_0811_D_N
+BASE_0811,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0811_E_A,BASE_0811_E_B
+BASE_0811,Gender,Woman,Man,BASE_0811_G_W,BASE_0811_G_M
+BASE_0815,Age,45,55,BASE_0815_A_45,BASE_0815_A_55
+BASE_0815,Disability,Disability disclosed,No disability disclosed,BASE_0815_D_Y,BASE_0815_D_N
+BASE_0815,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0815_E_A,BASE_0815_E_B
+BASE_0815,Gender,Woman,Man,BASE_0815_G_W,BASE_0815_G_M
+BASE_0842,Age,45,55,BASE_0842_A_45,BASE_0842_A_55
+BASE_0842,Disability,Disability disclosed,No disability disclosed,BASE_0842_D_Y,BASE_0842_D_N
+BASE_0842,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0842_E_A,BASE_0842_E_B
+BASE_0842,Gender,Woman,Man,BASE_0842_G_W,BASE_0842_G_M
+BASE_0853,Age,45,55,BASE_0853_A_45,BASE_0853_A_55
+BASE_0853,Disability,Disability disclosed,No disability disclosed,BASE_0853_D_Y,BASE_0853_D_N
+BASE_0853,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0853_E_A,BASE_0853_E_B
+BASE_0853,Gender,Woman,Man,BASE_0853_G_W,BASE_0853_G_M
+BASE_0862,Age,45,55,BASE_0862_A_45,BASE_0862_A_55
+BASE_0862,Disability,Disability disclosed,No disability disclosed,BASE_0862_D_Y,BASE_0862_D_N
+BASE_0862,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0862_E_A,BASE_0862_E_B
+BASE_0862,Gender,Woman,Man,BASE_0862_G_W,BASE_0862_G_M
+BASE_0873,Age,45,55,BASE_0873_A_45,BASE_0873_A_55
+BASE_0873,Disability,Disability disclosed,No disability disclosed,BASE_0873_D_Y,BASE_0873_D_N
+BASE_0873,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0873_E_A,BASE_0873_E_B
+BASE_0873,Gender,Woman,Man,BASE_0873_G_W,BASE_0873_G_M
+BASE_0875,Age,45,55,BASE_0875_A_45,BASE_0875_A_55
+BASE_0875,Disability,Disability disclosed,No disability disclosed,BASE_0875_D_Y,BASE_0875_D_N
+BASE_0875,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0875_E_A,BASE_0875_E_B
+BASE_0875,Gender,Woman,Man,BASE_0875_G_W,BASE_0875_G_M
+BASE_0879,Age,45,55,BASE_0879_A_45,BASE_0879_A_55
+BASE_0879,Disability,Disability disclosed,No disability disclosed,BASE_0879_D_Y,BASE_0879_D_N
+BASE_0879,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0879_E_A,BASE_0879_E_B
+BASE_0879,Gender,Woman,Man,BASE_0879_G_W,BASE_0879_G_M
+BASE_0895,Age,45,55,BASE_0895_A_45,BASE_0895_A_55
+BASE_0895,Disability,Disability disclosed,No disability disclosed,BASE_0895_D_Y,BASE_0895_D_N
+BASE_0895,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0895_E_A,BASE_0895_E_B
+BASE_0895,Gender,Woman,Man,BASE_0895_G_W,BASE_0895_G_M
+BASE_0900,Age,45,55,BASE_0900_A_45,BASE_0900_A_55
+BASE_0900,Disability,Disability disclosed,No disability disclosed,BASE_0900_D_Y,BASE_0900_D_N
+BASE_0900,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0900_E_A,BASE_0900_E_B
+BASE_0900,Gender,Woman,Man,BASE_0900_G_W,BASE_0900_G_M
+BASE_0924,Age,45,55,BASE_0924_A_45,BASE_0924_A_55
+BASE_0924,Disability,Disability disclosed,No disability disclosed,BASE_0924_D_Y,BASE_0924_D_N
+BASE_0924,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0924_E_A,BASE_0924_E_B
+BASE_0924,Gender,Woman,Man,BASE_0924_G_W,BASE_0924_G_M
+BASE_0925,Age,45,55,BASE_0925_A_45,BASE_0925_A_55
+BASE_0925,Disability,Disability disclosed,No disability disclosed,BASE_0925_D_Y,BASE_0925_D_N
+BASE_0925,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0925_E_A,BASE_0925_E_B
+BASE_0925,Gender,Woman,Man,BASE_0925_G_W,BASE_0925_G_M
+BASE_0935,Age,45,55,BASE_0935_A_45,BASE_0935_A_55
+BASE_0935,Disability,Disability disclosed,No disability disclosed,BASE_0935_D_Y,BASE_0935_D_N
+BASE_0935,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0935_E_A,BASE_0935_E_B
+BASE_0935,Gender,Woman,Man,BASE_0935_G_W,BASE_0935_G_M
+BASE_0948,Age,45,55,BASE_0948_A_45,BASE_0948_A_55
+BASE_0948,Disability,Disability disclosed,No disability disclosed,BASE_0948_D_Y,BASE_0948_D_N
+BASE_0948,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0948_E_A,BASE_0948_E_B
+BASE_0948,Gender,Woman,Man,BASE_0948_G_W,BASE_0948_G_M
+BASE_0950,Age,45,55,BASE_0950_A_45,BASE_0950_A_55
+BASE_0950,Disability,Disability disclosed,No disability disclosed,BASE_0950_D_Y,BASE_0950_D_N
+BASE_0950,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0950_E_A,BASE_0950_E_B
+BASE_0950,Gender,Woman,Man,BASE_0950_G_W,BASE_0950_G_M
+BASE_0964,Age,45,55,BASE_0964_A_45,BASE_0964_A_55
+BASE_0964,Disability,Disability disclosed,No disability disclosed,BASE_0964_D_Y,BASE_0964_D_N
+BASE_0964,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0964_E_A,BASE_0964_E_B
+BASE_0964,Gender,Woman,Man,BASE_0964_G_W,BASE_0964_G_M
+BASE_0976,Age,45,55,BASE_0976_A_45,BASE_0976_A_55
+BASE_0976,Disability,Disability disclosed,No disability disclosed,BASE_0976_D_Y,BASE_0976_D_N
+BASE_0976,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0976_E_A,BASE_0976_E_B
+BASE_0976,Gender,Woman,Man,BASE_0976_G_W,BASE_0976_G_M
+BASE_0986,Age,45,55,BASE_0986_A_45,BASE_0986_A_55
+BASE_0986,Disability,Disability disclosed,No disability disclosed,BASE_0986_D_Y,BASE_0986_D_N
+BASE_0986,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_0986_E_A,BASE_0986_E_B
+BASE_0986,Gender,Woman,Man,BASE_0986_G_W,BASE_0986_G_M
+BASE_1004,Age,45,55,BASE_1004_A_45,BASE_1004_A_55
+BASE_1004,Disability,Disability disclosed,No disability disclosed,BASE_1004_D_Y,BASE_1004_D_N
+BASE_1004,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1004_E_A,BASE_1004_E_B
+BASE_1004,Gender,Woman,Man,BASE_1004_G_W,BASE_1004_G_M
+BASE_1008,Age,45,55,BASE_1008_A_45,BASE_1008_A_55
+BASE_1008,Disability,Disability disclosed,No disability disclosed,BASE_1008_D_Y,BASE_1008_D_N
+BASE_1008,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1008_E_A,BASE_1008_E_B
+BASE_1008,Gender,Woman,Man,BASE_1008_G_W,BASE_1008_G_M
+BASE_1062,Age,45,55,BASE_1062_A_45,BASE_1062_A_55
+BASE_1062,Disability,Disability disclosed,No disability disclosed,BASE_1062_D_Y,BASE_1062_D_N
+BASE_1062,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1062_E_A,BASE_1062_E_B
+BASE_1062,Gender,Woman,Man,BASE_1062_G_W,BASE_1062_G_M
+BASE_1086,Age,45,55,BASE_1086_A_45,BASE_1086_A_55
+BASE_1086,Disability,Disability disclosed,No disability disclosed,BASE_1086_D_Y,BASE_1086_D_N
+BASE_1086,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1086_E_A,BASE_1086_E_B
+BASE_1086,Gender,Woman,Man,BASE_1086_G_W,BASE_1086_G_M
+BASE_1087,Age,45,55,BASE_1087_A_45,BASE_1087_A_55
+BASE_1087,Disability,Disability disclosed,No disability disclosed,BASE_1087_D_Y,BASE_1087_D_N
+BASE_1087,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1087_E_A,BASE_1087_E_B
+BASE_1087,Gender,Woman,Man,BASE_1087_G_W,BASE_1087_G_M
+BASE_1106,Age,45,55,BASE_1106_A_45,BASE_1106_A_55
+BASE_1106,Disability,Disability disclosed,No disability disclosed,BASE_1106_D_Y,BASE_1106_D_N
+BASE_1106,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1106_E_A,BASE_1106_E_B
+BASE_1106,Gender,Woman,Man,BASE_1106_G_W,BASE_1106_G_M
+BASE_1124,Age,45,55,BASE_1124_A_45,BASE_1124_A_55
+BASE_1124,Disability,Disability disclosed,No disability disclosed,BASE_1124_D_Y,BASE_1124_D_N
+BASE_1124,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1124_E_A,BASE_1124_E_B
+BASE_1124,Gender,Woman,Man,BASE_1124_G_W,BASE_1124_G_M
+BASE_1136,Age,45,55,BASE_1136_A_45,BASE_1136_A_55
+BASE_1136,Disability,Disability disclosed,No disability disclosed,BASE_1136_D_Y,BASE_1136_D_N
+BASE_1136,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1136_E_A,BASE_1136_E_B
+BASE_1136,Gender,Woman,Man,BASE_1136_G_W,BASE_1136_G_M
+BASE_1149,Age,45,55,BASE_1149_A_45,BASE_1149_A_55
+BASE_1149,Disability,Disability disclosed,No disability disclosed,BASE_1149_D_Y,BASE_1149_D_N
+BASE_1149,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1149_E_A,BASE_1149_E_B
+BASE_1149,Gender,Woman,Man,BASE_1149_G_W,BASE_1149_G_M
+BASE_1168,Age,45,55,BASE_1168_A_45,BASE_1168_A_55
+BASE_1168,Disability,Disability disclosed,No disability disclosed,BASE_1168_D_Y,BASE_1168_D_N
+BASE_1168,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1168_E_A,BASE_1168_E_B
+BASE_1168,Gender,Woman,Man,BASE_1168_G_W,BASE_1168_G_M
+BASE_1175,Age,45,55,BASE_1175_A_45,BASE_1175_A_55
+BASE_1175,Disability,Disability disclosed,No disability disclosed,BASE_1175_D_Y,BASE_1175_D_N
+BASE_1175,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1175_E_A,BASE_1175_E_B
+BASE_1175,Gender,Woman,Man,BASE_1175_G_W,BASE_1175_G_M
+BASE_1183,Age,45,55,BASE_1183_A_45,BASE_1183_A_55
+BASE_1183,Disability,Disability disclosed,No disability disclosed,BASE_1183_D_Y,BASE_1183_D_N
+BASE_1183,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1183_E_A,BASE_1183_E_B
+BASE_1183,Gender,Woman,Man,BASE_1183_G_W,BASE_1183_G_M
+BASE_1186,Age,45,55,BASE_1186_A_45,BASE_1186_A_55
+BASE_1186,Disability,Disability disclosed,No disability disclosed,BASE_1186_D_Y,BASE_1186_D_N
+BASE_1186,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1186_E_A,BASE_1186_E_B
+BASE_1186,Gender,Woman,Man,BASE_1186_G_W,BASE_1186_G_M
+BASE_1187,Age,45,55,BASE_1187_A_45,BASE_1187_A_55
+BASE_1187,Disability,Disability disclosed,No disability disclosed,BASE_1187_D_Y,BASE_1187_D_N
+BASE_1187,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1187_E_A,BASE_1187_E_B
+BASE_1187,Gender,Woman,Man,BASE_1187_G_W,BASE_1187_G_M
+BASE_1190,Age,45,55,BASE_1190_A_45,BASE_1190_A_55
+BASE_1190,Disability,Disability disclosed,No disability disclosed,BASE_1190_D_Y,BASE_1190_D_N
+BASE_1190,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1190_E_A,BASE_1190_E_B
+BASE_1190,Gender,Woman,Man,BASE_1190_G_W,BASE_1190_G_M
+BASE_1197,Age,45,55,BASE_1197_A_45,BASE_1197_A_55
+BASE_1197,Disability,Disability disclosed,No disability disclosed,BASE_1197_D_Y,BASE_1197_D_N
+BASE_1197,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1197_E_A,BASE_1197_E_B
+BASE_1197,Gender,Woman,Man,BASE_1197_G_W,BASE_1197_G_M
+BASE_1198,Age,45,55,BASE_1198_A_45,BASE_1198_A_55
+BASE_1198,Disability,Disability disclosed,No disability disclosed,BASE_1198_D_Y,BASE_1198_D_N
+BASE_1198,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1198_E_A,BASE_1198_E_B
+BASE_1198,Gender,Woman,Man,BASE_1198_G_W,BASE_1198_G_M
+BASE_1201,Age,45,55,BASE_1201_A_45,BASE_1201_A_55
+BASE_1201,Disability,Disability disclosed,No disability disclosed,BASE_1201_D_Y,BASE_1201_D_N
+BASE_1201,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1201_E_A,BASE_1201_E_B
+BASE_1201,Gender,Woman,Man,BASE_1201_G_W,BASE_1201_G_M
+BASE_1202,Age,45,55,BASE_1202_A_45,BASE_1202_A_55
+BASE_1202,Disability,Disability disclosed,No disability disclosed,BASE_1202_D_Y,BASE_1202_D_N
+BASE_1202,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1202_E_A,BASE_1202_E_B
+BASE_1202,Gender,Woman,Man,BASE_1202_G_W,BASE_1202_G_M
+BASE_1220,Age,45,55,BASE_1220_A_45,BASE_1220_A_55
+BASE_1220,Disability,Disability disclosed,No disability disclosed,BASE_1220_D_Y,BASE_1220_D_N
+BASE_1220,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1220_E_A,BASE_1220_E_B
+BASE_1220,Gender,Woman,Man,BASE_1220_G_W,BASE_1220_G_M
+BASE_1255,Age,45,55,BASE_1255_A_45,BASE_1255_A_55
+BASE_1255,Disability,Disability disclosed,No disability disclosed,BASE_1255_D_Y,BASE_1255_D_N
+BASE_1255,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1255_E_A,BASE_1255_E_B
+BASE_1255,Gender,Woman,Man,BASE_1255_G_W,BASE_1255_G_M
+BASE_1256,Age,45,55,BASE_1256_A_45,BASE_1256_A_55
+BASE_1256,Disability,Disability disclosed,No disability disclosed,BASE_1256_D_Y,BASE_1256_D_N
+BASE_1256,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1256_E_A,BASE_1256_E_B
+BASE_1256,Gender,Woman,Man,BASE_1256_G_W,BASE_1256_G_M
+BASE_1269,Age,45,55,BASE_1269_A_45,BASE_1269_A_55
+BASE_1269,Disability,Disability disclosed,No disability disclosed,BASE_1269_D_Y,BASE_1269_D_N
+BASE_1269,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1269_E_A,BASE_1269_E_B
+BASE_1269,Gender,Woman,Man,BASE_1269_G_W,BASE_1269_G_M
+BASE_1284,Age,45,55,BASE_1284_A_45,BASE_1284_A_55
+BASE_1284,Disability,Disability disclosed,No disability disclosed,BASE_1284_D_Y,BASE_1284_D_N
+BASE_1284,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1284_E_A,BASE_1284_E_B
+BASE_1284,Gender,Woman,Man,BASE_1284_G_W,BASE_1284_G_M
+BASE_1286,Age,45,55,BASE_1286_A_45,BASE_1286_A_55
+BASE_1286,Disability,Disability disclosed,No disability disclosed,BASE_1286_D_Y,BASE_1286_D_N
+BASE_1286,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1286_E_A,BASE_1286_E_B
+BASE_1286,Gender,Woman,Man,BASE_1286_G_W,BASE_1286_G_M
+BASE_1287,Age,45,55,BASE_1287_A_45,BASE_1287_A_55
+BASE_1287,Disability,Disability disclosed,No disability disclosed,BASE_1287_D_Y,BASE_1287_D_N
+BASE_1287,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1287_E_A,BASE_1287_E_B
+BASE_1287,Gender,Woman,Man,BASE_1287_G_W,BASE_1287_G_M
+BASE_1303,Age,45,55,BASE_1303_A_45,BASE_1303_A_55
+BASE_1303,Disability,Disability disclosed,No disability disclosed,BASE_1303_D_Y,BASE_1303_D_N
+BASE_1303,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1303_E_A,BASE_1303_E_B
+BASE_1303,Gender,Woman,Man,BASE_1303_G_W,BASE_1303_G_M
+BASE_1309,Age,45,55,BASE_1309_A_45,BASE_1309_A_55
+BASE_1309,Disability,Disability disclosed,No disability disclosed,BASE_1309_D_Y,BASE_1309_D_N
+BASE_1309,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1309_E_A,BASE_1309_E_B
+BASE_1309,Gender,Woman,Man,BASE_1309_G_W,BASE_1309_G_M
+BASE_1310,Age,45,55,BASE_1310_A_45,BASE_1310_A_55
+BASE_1310,Disability,Disability disclosed,No disability disclosed,BASE_1310_D_Y,BASE_1310_D_N
+BASE_1310,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1310_E_A,BASE_1310_E_B
+BASE_1310,Gender,Woman,Man,BASE_1310_G_W,BASE_1310_G_M
+BASE_1324,Age,45,55,BASE_1324_A_45,BASE_1324_A_55
+BASE_1324,Disability,Disability disclosed,No disability disclosed,BASE_1324_D_Y,BASE_1324_D_N
+BASE_1324,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1324_E_A,BASE_1324_E_B
+BASE_1324,Gender,Woman,Man,BASE_1324_G_W,BASE_1324_G_M
+BASE_1325,Age,45,55,BASE_1325_A_45,BASE_1325_A_55
+BASE_1325,Disability,Disability disclosed,No disability disclosed,BASE_1325_D_Y,BASE_1325_D_N
+BASE_1325,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1325_E_A,BASE_1325_E_B
+BASE_1325,Gender,Woman,Man,BASE_1325_G_W,BASE_1325_G_M
+BASE_1337,Age,45,55,BASE_1337_A_45,BASE_1337_A_55
+BASE_1337,Disability,Disability disclosed,No disability disclosed,BASE_1337_D_Y,BASE_1337_D_N
+BASE_1337,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1337_E_A,BASE_1337_E_B
+BASE_1337,Gender,Woman,Man,BASE_1337_G_W,BASE_1337_G_M
+BASE_1357,Age,45,55,BASE_1357_A_45,BASE_1357_A_55
+BASE_1357,Disability,Disability disclosed,No disability disclosed,BASE_1357_D_Y,BASE_1357_D_N
+BASE_1357,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1357_E_A,BASE_1357_E_B
+BASE_1357,Gender,Woman,Man,BASE_1357_G_W,BASE_1357_G_M
+BASE_1358,Age,45,55,BASE_1358_A_45,BASE_1358_A_55
+BASE_1358,Disability,Disability disclosed,No disability disclosed,BASE_1358_D_Y,BASE_1358_D_N
+BASE_1358,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1358_E_A,BASE_1358_E_B
+BASE_1358,Gender,Woman,Man,BASE_1358_G_W,BASE_1358_G_M
+BASE_1365,Age,45,55,BASE_1365_A_45,BASE_1365_A_55
+BASE_1365,Disability,Disability disclosed,No disability disclosed,BASE_1365_D_Y,BASE_1365_D_N
+BASE_1365,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1365_E_A,BASE_1365_E_B
+BASE_1365,Gender,Woman,Man,BASE_1365_G_W,BASE_1365_G_M
+BASE_1367,Age,45,55,BASE_1367_A_45,BASE_1367_A_55
+BASE_1367,Disability,Disability disclosed,No disability disclosed,BASE_1367_D_Y,BASE_1367_D_N
+BASE_1367,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1367_E_A,BASE_1367_E_B
+BASE_1367,Gender,Woman,Man,BASE_1367_G_W,BASE_1367_G_M
+BASE_1377,Age,45,55,BASE_1377_A_45,BASE_1377_A_55
+BASE_1377,Disability,Disability disclosed,No disability disclosed,BASE_1377_D_Y,BASE_1377_D_N
+BASE_1377,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1377_E_A,BASE_1377_E_B
+BASE_1377,Gender,Woman,Man,BASE_1377_G_W,BASE_1377_G_M
+BASE_1381,Age,45,55,BASE_1381_A_45,BASE_1381_A_55
+BASE_1381,Disability,Disability disclosed,No disability disclosed,BASE_1381_D_Y,BASE_1381_D_N
+BASE_1381,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1381_E_A,BASE_1381_E_B
+BASE_1381,Gender,Woman,Man,BASE_1381_G_W,BASE_1381_G_M
+BASE_1388,Age,45,55,BASE_1388_A_45,BASE_1388_A_55
+BASE_1388,Disability,Disability disclosed,No disability disclosed,BASE_1388_D_Y,BASE_1388_D_N
+BASE_1388,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1388_E_A,BASE_1388_E_B
+BASE_1388,Gender,Woman,Man,BASE_1388_G_W,BASE_1388_G_M
+BASE_1400,Age,45,55,BASE_1400_A_45,BASE_1400_A_55
+BASE_1400,Disability,Disability disclosed,No disability disclosed,BASE_1400_D_Y,BASE_1400_D_N
+BASE_1400,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1400_E_A,BASE_1400_E_B
+BASE_1400,Gender,Woman,Man,BASE_1400_G_W,BASE_1400_G_M
+BASE_1404,Age,45,55,BASE_1404_A_45,BASE_1404_A_55
+BASE_1404,Disability,Disability disclosed,No disability disclosed,BASE_1404_D_Y,BASE_1404_D_N
+BASE_1404,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1404_E_A,BASE_1404_E_B
+BASE_1404,Gender,Woman,Man,BASE_1404_G_W,BASE_1404_G_M
+BASE_1429,Age,45,55,BASE_1429_A_45,BASE_1429_A_55
+BASE_1429,Disability,Disability disclosed,No disability disclosed,BASE_1429_D_Y,BASE_1429_D_N
+BASE_1429,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1429_E_A,BASE_1429_E_B
+BASE_1429,Gender,Woman,Man,BASE_1429_G_W,BASE_1429_G_M
+BASE_1430,Age,45,55,BASE_1430_A_45,BASE_1430_A_55
+BASE_1430,Disability,Disability disclosed,No disability disclosed,BASE_1430_D_Y,BASE_1430_D_N
+BASE_1430,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1430_E_A,BASE_1430_E_B
+BASE_1430,Gender,Woman,Man,BASE_1430_G_W,BASE_1430_G_M
+BASE_1433,Age,45,55,BASE_1433_A_45,BASE_1433_A_55
+BASE_1433,Disability,Disability disclosed,No disability disclosed,BASE_1433_D_Y,BASE_1433_D_N
+BASE_1433,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1433_E_A,BASE_1433_E_B
+BASE_1433,Gender,Woman,Man,BASE_1433_G_W,BASE_1433_G_M
+BASE_1437,Age,45,55,BASE_1437_A_45,BASE_1437_A_55
+BASE_1437,Disability,Disability disclosed,No disability disclosed,BASE_1437_D_Y,BASE_1437_D_N
+BASE_1437,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1437_E_A,BASE_1437_E_B
+BASE_1437,Gender,Woman,Man,BASE_1437_G_W,BASE_1437_G_M
+BASE_1442,Age,45,55,BASE_1442_A_45,BASE_1442_A_55
+BASE_1442,Disability,Disability disclosed,No disability disclosed,BASE_1442_D_Y,BASE_1442_D_N
+BASE_1442,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1442_E_A,BASE_1442_E_B
+BASE_1442,Gender,Woman,Man,BASE_1442_G_W,BASE_1442_G_M
+BASE_1445,Age,45,55,BASE_1445_A_45,BASE_1445_A_55
+BASE_1445,Disability,Disability disclosed,No disability disclosed,BASE_1445_D_Y,BASE_1445_D_N
+BASE_1445,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1445_E_A,BASE_1445_E_B
+BASE_1445,Gender,Woman,Man,BASE_1445_G_W,BASE_1445_G_M
+BASE_1448,Age,45,55,BASE_1448_A_45,BASE_1448_A_55
+BASE_1448,Disability,Disability disclosed,No disability disclosed,BASE_1448_D_Y,BASE_1448_D_N
+BASE_1448,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1448_E_A,BASE_1448_E_B
+BASE_1448,Gender,Woman,Man,BASE_1448_G_W,BASE_1448_G_M
+BASE_1451,Age,45,55,BASE_1451_A_45,BASE_1451_A_55
+BASE_1451,Disability,Disability disclosed,No disability disclosed,BASE_1451_D_Y,BASE_1451_D_N
+BASE_1451,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1451_E_A,BASE_1451_E_B
+BASE_1451,Gender,Woman,Man,BASE_1451_G_W,BASE_1451_G_M
+BASE_1453,Age,45,55,BASE_1453_A_45,BASE_1453_A_55
+BASE_1453,Disability,Disability disclosed,No disability disclosed,BASE_1453_D_Y,BASE_1453_D_N
+BASE_1453,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1453_E_A,BASE_1453_E_B
+BASE_1453,Gender,Woman,Man,BASE_1453_G_W,BASE_1453_G_M
+BASE_1457,Age,45,55,BASE_1457_A_45,BASE_1457_A_55
+BASE_1457,Disability,Disability disclosed,No disability disclosed,BASE_1457_D_Y,BASE_1457_D_N
+BASE_1457,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1457_E_A,BASE_1457_E_B
+BASE_1457,Gender,Woman,Man,BASE_1457_G_W,BASE_1457_G_M
+BASE_1478,Age,45,55,BASE_1478_A_45,BASE_1478_A_55
+BASE_1478,Disability,Disability disclosed,No disability disclosed,BASE_1478_D_Y,BASE_1478_D_N
+BASE_1478,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1478_E_A,BASE_1478_E_B
+BASE_1478,Gender,Woman,Man,BASE_1478_G_W,BASE_1478_G_M
+BASE_1494,Age,45,55,BASE_1494_A_45,BASE_1494_A_55
+BASE_1494,Disability,Disability disclosed,No disability disclosed,BASE_1494_D_Y,BASE_1494_D_N
+BASE_1494,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1494_E_A,BASE_1494_E_B
+BASE_1494,Gender,Woman,Man,BASE_1494_G_W,BASE_1494_G_M
+BASE_1498,Age,45,55,BASE_1498_A_45,BASE_1498_A_55
+BASE_1498,Disability,Disability disclosed,No disability disclosed,BASE_1498_D_Y,BASE_1498_D_N
+BASE_1498,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1498_E_A,BASE_1498_E_B
+BASE_1498,Gender,Woman,Man,BASE_1498_G_W,BASE_1498_G_M
+BASE_1534,Age,45,55,BASE_1534_A_45,BASE_1534_A_55
+BASE_1534,Disability,Disability disclosed,No disability disclosed,BASE_1534_D_Y,BASE_1534_D_N
+BASE_1534,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1534_E_A,BASE_1534_E_B
+BASE_1534,Gender,Woman,Man,BASE_1534_G_W,BASE_1534_G_M
+BASE_1547,Age,45,55,BASE_1547_A_45,BASE_1547_A_55
+BASE_1547,Disability,Disability disclosed,No disability disclosed,BASE_1547_D_Y,BASE_1547_D_N
+BASE_1547,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1547_E_A,BASE_1547_E_B
+BASE_1547,Gender,Woman,Man,BASE_1547_G_W,BASE_1547_G_M
+BASE_1551,Age,45,55,BASE_1551_A_45,BASE_1551_A_55
+BASE_1551,Disability,Disability disclosed,No disability disclosed,BASE_1551_D_Y,BASE_1551_D_N
+BASE_1551,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1551_E_A,BASE_1551_E_B
+BASE_1551,Gender,Woman,Man,BASE_1551_G_W,BASE_1551_G_M
+BASE_1568,Age,45,55,BASE_1568_A_45,BASE_1568_A_55
+BASE_1568,Disability,Disability disclosed,No disability disclosed,BASE_1568_D_Y,BASE_1568_D_N
+BASE_1568,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1568_E_A,BASE_1568_E_B
+BASE_1568,Gender,Woman,Man,BASE_1568_G_W,BASE_1568_G_M
+BASE_1588,Age,45,55,BASE_1588_A_45,BASE_1588_A_55
+BASE_1588,Disability,Disability disclosed,No disability disclosed,BASE_1588_D_Y,BASE_1588_D_N
+BASE_1588,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1588_E_A,BASE_1588_E_B
+BASE_1588,Gender,Woman,Man,BASE_1588_G_W,BASE_1588_G_M
+BASE_1589,Age,45,55,BASE_1589_A_45,BASE_1589_A_55
+BASE_1589,Disability,Disability disclosed,No disability disclosed,BASE_1589_D_Y,BASE_1589_D_N
+BASE_1589,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1589_E_A,BASE_1589_E_B
+BASE_1589,Gender,Woman,Man,BASE_1589_G_W,BASE_1589_G_M
+BASE_1590,Age,45,55,BASE_1590_A_45,BASE_1590_A_55
+BASE_1590,Disability,Disability disclosed,No disability disclosed,BASE_1590_D_Y,BASE_1590_D_N
+BASE_1590,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1590_E_A,BASE_1590_E_B
+BASE_1590,Gender,Woman,Man,BASE_1590_G_W,BASE_1590_G_M
+BASE_1624,Age,45,55,BASE_1624_A_45,BASE_1624_A_55
+BASE_1624,Disability,Disability disclosed,No disability disclosed,BASE_1624_D_Y,BASE_1624_D_N
+BASE_1624,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1624_E_A,BASE_1624_E_B
+BASE_1624,Gender,Woman,Man,BASE_1624_G_W,BASE_1624_G_M
+BASE_1638,Age,45,55,BASE_1638_A_45,BASE_1638_A_55
+BASE_1638,Disability,Disability disclosed,No disability disclosed,BASE_1638_D_Y,BASE_1638_D_N
+BASE_1638,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1638_E_A,BASE_1638_E_B
+BASE_1638,Gender,Woman,Man,BASE_1638_G_W,BASE_1638_G_M
+BASE_1650,Age,45,55,BASE_1650_A_45,BASE_1650_A_55
+BASE_1650,Disability,Disability disclosed,No disability disclosed,BASE_1650_D_Y,BASE_1650_D_N
+BASE_1650,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1650_E_A,BASE_1650_E_B
+BASE_1650,Gender,Woman,Man,BASE_1650_G_W,BASE_1650_G_M
+BASE_1657,Age,45,55,BASE_1657_A_45,BASE_1657_A_55
+BASE_1657,Disability,Disability disclosed,No disability disclosed,BASE_1657_D_Y,BASE_1657_D_N
+BASE_1657,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1657_E_A,BASE_1657_E_B
+BASE_1657,Gender,Woman,Man,BASE_1657_G_W,BASE_1657_G_M
+BASE_1660,Age,45,55,BASE_1660_A_45,BASE_1660_A_55
+BASE_1660,Disability,Disability disclosed,No disability disclosed,BASE_1660_D_Y,BASE_1660_D_N
+BASE_1660,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1660_E_A,BASE_1660_E_B
+BASE_1660,Gender,Woman,Man,BASE_1660_G_W,BASE_1660_G_M
+BASE_1674,Age,45,55,BASE_1674_A_45,BASE_1674_A_55
+BASE_1674,Disability,Disability disclosed,No disability disclosed,BASE_1674_D_Y,BASE_1674_D_N
+BASE_1674,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1674_E_A,BASE_1674_E_B
+BASE_1674,Gender,Woman,Man,BASE_1674_G_W,BASE_1674_G_M
+BASE_1707,Age,45,55,BASE_1707_A_45,BASE_1707_A_55
+BASE_1707,Disability,Disability disclosed,No disability disclosed,BASE_1707_D_Y,BASE_1707_D_N
+BASE_1707,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1707_E_A,BASE_1707_E_B
+BASE_1707,Gender,Woman,Man,BASE_1707_G_W,BASE_1707_G_M
+BASE_1708,Age,45,55,BASE_1708_A_45,BASE_1708_A_55
+BASE_1708,Disability,Disability disclosed,No disability disclosed,BASE_1708_D_Y,BASE_1708_D_N
+BASE_1708,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1708_E_A,BASE_1708_E_B
+BASE_1708,Gender,Woman,Man,BASE_1708_G_W,BASE_1708_G_M
+BASE_1723,Age,45,55,BASE_1723_A_45,BASE_1723_A_55
+BASE_1723,Disability,Disability disclosed,No disability disclosed,BASE_1723_D_Y,BASE_1723_D_N
+BASE_1723,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1723_E_A,BASE_1723_E_B
+BASE_1723,Gender,Woman,Man,BASE_1723_G_W,BASE_1723_G_M
+BASE_1743,Age,45,55,BASE_1743_A_45,BASE_1743_A_55
+BASE_1743,Disability,Disability disclosed,No disability disclosed,BASE_1743_D_Y,BASE_1743_D_N
+BASE_1743,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1743_E_A,BASE_1743_E_B
+BASE_1743,Gender,Woman,Man,BASE_1743_G_W,BASE_1743_G_M
+BASE_1783,Age,45,55,BASE_1783_A_45,BASE_1783_A_55
+BASE_1783,Disability,Disability disclosed,No disability disclosed,BASE_1783_D_Y,BASE_1783_D_N
+BASE_1783,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1783_E_A,BASE_1783_E_B
+BASE_1783,Gender,Woman,Man,BASE_1783_G_W,BASE_1783_G_M
+BASE_1788,Age,45,55,BASE_1788_A_45,BASE_1788_A_55
+BASE_1788,Disability,Disability disclosed,No disability disclosed,BASE_1788_D_Y,BASE_1788_D_N
+BASE_1788,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1788_E_A,BASE_1788_E_B
+BASE_1788,Gender,Woman,Man,BASE_1788_G_W,BASE_1788_G_M
+BASE_1829,Age,45,55,BASE_1829_A_45,BASE_1829_A_55
+BASE_1829,Disability,Disability disclosed,No disability disclosed,BASE_1829_D_Y,BASE_1829_D_N
+BASE_1829,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1829_E_A,BASE_1829_E_B
+BASE_1829,Gender,Woman,Man,BASE_1829_G_W,BASE_1829_G_M
+BASE_1835,Age,45,55,BASE_1835_A_45,BASE_1835_A_55
+BASE_1835,Disability,Disability disclosed,No disability disclosed,BASE_1835_D_Y,BASE_1835_D_N
+BASE_1835,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1835_E_A,BASE_1835_E_B
+BASE_1835,Gender,Woman,Man,BASE_1835_G_W,BASE_1835_G_M
+BASE_1861,Age,45,55,BASE_1861_A_45,BASE_1861_A_55
+BASE_1861,Disability,Disability disclosed,No disability disclosed,BASE_1861_D_Y,BASE_1861_D_N
+BASE_1861,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1861_E_A,BASE_1861_E_B
+BASE_1861,Gender,Woman,Man,BASE_1861_G_W,BASE_1861_G_M
+BASE_1868,Age,45,55,BASE_1868_A_45,BASE_1868_A_55
+BASE_1868,Disability,Disability disclosed,No disability disclosed,BASE_1868_D_Y,BASE_1868_D_N
+BASE_1868,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1868_E_A,BASE_1868_E_B
+BASE_1868,Gender,Woman,Man,BASE_1868_G_W,BASE_1868_G_M
+BASE_1895,Age,45,55,BASE_1895_A_45,BASE_1895_A_55
+BASE_1895,Disability,Disability disclosed,No disability disclosed,BASE_1895_D_Y,BASE_1895_D_N
+BASE_1895,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1895_E_A,BASE_1895_E_B
+BASE_1895,Gender,Woman,Man,BASE_1895_G_W,BASE_1895_G_M
+BASE_1907,Age,45,55,BASE_1907_A_45,BASE_1907_A_55
+BASE_1907,Disability,Disability disclosed,No disability disclosed,BASE_1907_D_Y,BASE_1907_D_N
+BASE_1907,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1907_E_A,BASE_1907_E_B
+BASE_1907,Gender,Woman,Man,BASE_1907_G_W,BASE_1907_G_M
+BASE_1914,Age,45,55,BASE_1914_A_45,BASE_1914_A_55
+BASE_1914,Disability,Disability disclosed,No disability disclosed,BASE_1914_D_Y,BASE_1914_D_N
+BASE_1914,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1914_E_A,BASE_1914_E_B
+BASE_1914,Gender,Woman,Man,BASE_1914_G_W,BASE_1914_G_M
+BASE_1917,Age,45,55,BASE_1917_A_45,BASE_1917_A_55
+BASE_1917,Disability,Disability disclosed,No disability disclosed,BASE_1917_D_Y,BASE_1917_D_N
+BASE_1917,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1917_E_A,BASE_1917_E_B
+BASE_1917,Gender,Woman,Man,BASE_1917_G_W,BASE_1917_G_M
+BASE_1921,Age,45,55,BASE_1921_A_45,BASE_1921_A_55
+BASE_1921,Disability,Disability disclosed,No disability disclosed,BASE_1921_D_Y,BASE_1921_D_N
+BASE_1921,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1921_E_A,BASE_1921_E_B
+BASE_1921,Gender,Woman,Man,BASE_1921_G_W,BASE_1921_G_M
+BASE_1926,Age,45,55,BASE_1926_A_45,BASE_1926_A_55
+BASE_1926,Disability,Disability disclosed,No disability disclosed,BASE_1926_D_Y,BASE_1926_D_N
+BASE_1926,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1926_E_A,BASE_1926_E_B
+BASE_1926,Gender,Woman,Man,BASE_1926_G_W,BASE_1926_G_M
+BASE_1949,Age,45,55,BASE_1949_A_45,BASE_1949_A_55
+BASE_1949,Disability,Disability disclosed,No disability disclosed,BASE_1949_D_Y,BASE_1949_D_N
+BASE_1949,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1949_E_A,BASE_1949_E_B
+BASE_1949,Gender,Woman,Man,BASE_1949_G_W,BASE_1949_G_M
+BASE_1956,Age,45,55,BASE_1956_A_45,BASE_1956_A_55
+BASE_1956,Disability,Disability disclosed,No disability disclosed,BASE_1956_D_Y,BASE_1956_D_N
+BASE_1956,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1956_E_A,BASE_1956_E_B
+BASE_1956,Gender,Woman,Man,BASE_1956_G_W,BASE_1956_G_M
+BASE_1981,Age,45,55,BASE_1981_A_45,BASE_1981_A_55
+BASE_1981,Disability,Disability disclosed,No disability disclosed,BASE_1981_D_Y,BASE_1981_D_N
+BASE_1981,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1981_E_A,BASE_1981_E_B
+BASE_1981,Gender,Woman,Man,BASE_1981_G_W,BASE_1981_G_M
+BASE_1982,Age,45,55,BASE_1982_A_45,BASE_1982_A_55
+BASE_1982,Disability,Disability disclosed,No disability disclosed,BASE_1982_D_Y,BASE_1982_D_N
+BASE_1982,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1982_E_A,BASE_1982_E_B
+BASE_1982,Gender,Woman,Man,BASE_1982_G_W,BASE_1982_G_M
+BASE_1983,Age,45,55,BASE_1983_A_45,BASE_1983_A_55
+BASE_1983,Disability,Disability disclosed,No disability disclosed,BASE_1983_D_Y,BASE_1983_D_N
+BASE_1983,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1983_E_A,BASE_1983_E_B
+BASE_1983,Gender,Woman,Man,BASE_1983_G_W,BASE_1983_G_M
+BASE_1989,Age,45,55,BASE_1989_A_45,BASE_1989_A_55
+BASE_1989,Disability,Disability disclosed,No disability disclosed,BASE_1989_D_Y,BASE_1989_D_N
+BASE_1989,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1989_E_A,BASE_1989_E_B
+BASE_1989,Gender,Woman,Man,BASE_1989_G_W,BASE_1989_G_M
+BASE_1991,Age,45,55,BASE_1991_A_45,BASE_1991_A_55
+BASE_1991,Disability,Disability disclosed,No disability disclosed,BASE_1991_D_Y,BASE_1991_D_N
+BASE_1991,Ethnicity,Ethnic Group A,Ethnic Group B,BASE_1991_E_A,BASE_1991_E_B
+BASE_1991,Gender,Woman,Man,BASE_1991_G_W,BASE_1991_G_M

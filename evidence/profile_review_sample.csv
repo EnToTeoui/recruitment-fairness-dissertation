@@ -1,0 +1,281 @@
+base_profile_id,education_level,degree_field,years_total_experience,years_relevant_experience,technical_skill_score,sql_skill_score,python_or_r_skill_score,data_visualisation_score,excel_skill_score,communication_score,assessment_score,analytical_reasoning_score,leadership_experience_years,employment_gap_months,certification_count,job_specific_skill_count,candidate_quality_score,qualification_status,quality_band,baseline_profile_text,audit_band
+BASE_1783,Bachelor's degree,Other quantitative discipline,7.0,2.9,71,69,61,73,59,72,55,58,1.1,0,1,1,59.12,Not Qualified,Low,"Education
+Bachelor's degree in Other quantitative discipline.
+
+Professional Experience
+The candidate has 7.0 years of total professional experience; 2.9 years of experience directly relevant to data analysis; 1.1 years of experience in a leadership or supervisory capacity.
+
+Technical Skills
+SQL skill score: 69/100. Python/R skill score: 61/100. Data visualisation skill score: 73/100. Excel skill score: 59/100. General technical skill score: 71/100. Job-specific skills demonstrated: 1.
+
+Assessment Results
+Assessment score: 55/100. Analytical reasoning score: 58/100. Communication score: 72/100.
+
+Relevant Certifications
+Holds: SQL Proficiency Certification.",Low
+BASE_1324,PhD,Engineering,0.6,0.3,50,36,41,67,58,60,78,73,0.6,8,1,2,54.55,Not Qualified,Low,"Education
+PhD in Engineering.
+
+Professional Experience
+The candidate has 0.6 years of total professional experience; 0.3 years of experience directly relevant to data analysis; 0.6 years of experience in a leadership or supervisory capacity; an employment gap of 8 months.
+
+Technical Skills
+SQL skill score: 36/100. Python/R skill score: 41/100. Data visualisation skill score: 67/100. Excel skill score: 58/100. General technical skill score: 50/100. Job-specific skills demonstrated: 2.
+
+Assessment Results
+Assessment score: 78/100. Analytical reasoning score: 73/100. Communication score: 60/100.
+
+Relevant Certifications
+Holds: Data Visualisation Certificate.",Low
+BASE_0621,PhD,Information Systems,3.2,1.2,88,62,80,92,54,71,45,66,0.1,24,2,2,59.95,Not Qualified,Low,"Education
+PhD in Information Systems.
+
+Professional Experience
+The candidate has 3.2 years of total professional experience; 1.2 years of experience directly relevant to data analysis; an employment gap of 24 months.
+
+Technical Skills
+SQL skill score: 62/100. Python/R skill score: 80/100. Data visualisation skill score: 92/100. Excel skill score: 54/100. General technical skill score: 88/100. Job-specific skills demonstrated: 2.
+
+Assessment Results
+Assessment score: 45/100. Analytical reasoning score: 66/100. Communication score: 71/100.
+
+Relevant Certifications
+Holds: Data Visualisation Certificate, Statistics for Data Analysis Certificate.",Low
+BASE_1914,Master's degree,Mathematics,4.1,1.9,59,55,53,55,68,61,63,69,1.1,19,1,4,56.78,Not Qualified,Low,"Education
+Master's degree in Mathematics.
+
+Professional Experience
+The candidate has 4.1 years of total professional experience; 1.9 years of experience directly relevant to data analysis; 1.1 years of experience in a leadership or supervisory capacity; an employment gap of 19 months.
+
+Technical Skills
+SQL skill score: 55/100. Python/R skill score: 53/100. Data visualisation skill score: 55/100. Excel skill score: 68/100. General technical skill score: 59/100. Job-specific skills demonstrated: 4.
+
+Assessment Results
+Assessment score: 63/100. Analytical reasoning score: 69/100. Communication score: 61/100.
+
+Relevant Certifications
+Holds: SQL Proficiency Certification.",Low
+BASE_0103,Bachelor's degree,Engineering,8.4,3.5,81,80,50,67,64,83,71,48,0.3,0,0,3,61.57,Not Qualified,Borderline,"Education
+Bachelor's degree in Engineering.
+
+Professional Experience
+The candidate has 8.4 years of total professional experience; 3.5 years of experience directly relevant to data analysis.
+
+Technical Skills
+SQL skill score: 80/100. Python/R skill score: 50/100. Data visualisation skill score: 67/100. Excel skill score: 64/100. General technical skill score: 81/100. Job-specific skills demonstrated: 3.
+
+Assessment Results
+Assessment score: 71/100. Analytical reasoning score: 48/100. Communication score: 83/100.
+
+Relevant Certifications
+No formal certifications beyond the stated education.",Borderline
+BASE_0431,Equivalent experience / alternative pathway,Information Systems,4.6,1.5,71,82,80,68,78,77,44,67,1.4,0,0,3,63.85,Not Qualified,Borderline,"Education
+Equivalent experience / alternative pathway in Information Systems.
+
+Professional Experience
+The candidate has 4.6 years of total professional experience; 1.5 years of experience directly relevant to data analysis; 1.4 years of experience in a leadership or supervisory capacity.
+
+Technical Skills
+SQL skill score: 82/100. Python/R skill score: 80/100. Data visualisation skill score: 68/100. Excel skill score: 78/100. General technical skill score: 71/100. Job-specific skills demonstrated: 3.
+
+Assessment Results
+Assessment score: 44/100. Analytical reasoning score: 67/100. Communication score: 77/100.
+
+Relevant Certifications
+No formal certifications beyond the stated education.",Borderline
+BASE_0564,Master's degree,Economics,12.2,3.3,77,63,69,66,70,64,47,77,0.3,0,0,3,61.55,Not Qualified,Borderline,"Education
+Master's degree in Economics.
+
+Professional Experience
+The candidate has 12.2 years of total professional experience; 3.3 years of experience directly relevant to data analysis.
+
+Technical Skills
+SQL skill score: 63/100. Python/R skill score: 69/100. Data visualisation skill score: 66/100. Excel skill score: 70/100. General technical skill score: 77/100. Job-specific skills demonstrated: 3.
+
+Assessment Results
+Assessment score: 47/100. Analytical reasoning score: 77/100. Communication score: 64/100.
+
+Relevant Certifications
+No formal certifications beyond the stated education.",Borderline
+BASE_0469,Bachelor's degree,Business Analytics,14.9,12.0,58,42,33,64,71,54,100,59,1.8,0,1,1,65.3,Not Qualified,Borderline,"Education
+Bachelor's degree in Business Analytics.
+
+Professional Experience
+The candidate has 14.9 years of total professional experience; 12.0 years of experience directly relevant to data analysis; 1.8 years of experience in a leadership or supervisory capacity.
+
+Technical Skills
+SQL skill score: 42/100. Python/R skill score: 33/100. Data visualisation skill score: 64/100. Excel skill score: 71/100. General technical skill score: 58/100. Job-specific skills demonstrated: 1.
+
+Assessment Results
+Assessment score: 100/100. Analytical reasoning score: 59/100. Communication score: 54/100.
+
+Relevant Certifications
+Holds: Excel Advanced Certification.",Borderline
+BASE_1286,Equivalent experience / alternative pathway,Business Analytics,1.7,1.5,75,94,52,72,61,71,73,87,0.6,2,2,4,69.3,Not Qualified,Borderline,"Education
+Equivalent experience / alternative pathway in Business Analytics.
+
+Professional Experience
+The candidate has 1.7 years of total professional experience; 1.5 years of experience directly relevant to data analysis; 0.6 years of experience in a leadership or supervisory capacity; an employment gap of 2 months.
+
+Technical Skills
+SQL skill score: 94/100. Python/R skill score: 52/100. Data visualisation skill score: 72/100. Excel skill score: 61/100. General technical skill score: 75/100. Job-specific skills demonstrated: 4.
+
+Assessment Results
+Assessment score: 73/100. Analytical reasoning score: 87/100. Communication score: 71/100.
+
+Relevant Certifications
+Holds: Excel Advanced Certification, Statistics for Data Analysis Certificate.",Borderline
+BASE_0862,Master's degree,Economics,13.3,10.6,73,83,51,65,56,65,41,77,0.1,4,3,5,66.53,Not Qualified,Borderline,"Education
+Master's degree in Economics.
+
+Professional Experience
+The candidate has 13.3 years of total professional experience; 10.6 years of experience directly relevant to data analysis; an employment gap of 4 months.
+
+Technical Skills
+SQL skill score: 83/100. Python/R skill score: 51/100. Data visualisation skill score: 65/100. Excel skill score: 56/100. General technical skill score: 73/100. Job-specific skills demonstrated: 5.
+
+Assessment Results
+Assessment score: 41/100. Analytical reasoning score: 77/100. Communication score: 65/100.
+
+Relevant Certifications
+Holds: SQL Proficiency Certification, Statistics for Data Analysis Certificate, Data Analytics Professional Certificate.",Borderline
+BASE_0879,Master's degree,Economics,5.8,3.0,68,78,67,70,79,60,43,77,0.9,8,0,3,63.65,Not Qualified,Borderline,"Education
+Master's degree in Economics.
+
+Professional Experience
+The candidate has 5.8 years of total professional experience; 3.0 years of experience directly relevant to data analysis; 0.9 years of experience in a leadership or supervisory capacity; an employment gap of 8 months.
+
+Technical Skills
+SQL skill score: 78/100. Python/R skill score: 67/100. Data visualisation skill score: 70/100. Excel skill score: 79/100. General technical skill score: 68/100. Job-specific skills demonstrated: 3.
+
+Assessment Results
+Assessment score: 43/100. Analytical reasoning score: 77/100. Communication score: 60/100.
+
+Relevant Certifications
+No formal certifications beyond the stated education.",Borderline
+BASE_0641,Master's degree,Finance,3.0,2.5,51,74,72,29,85,52,88,67,2.4,1,2,4,63.58,Not Qualified,Borderline,"Education
+Master's degree in Finance.
+
+Professional Experience
+The candidate has 3.0 years of total professional experience; 2.5 years of experience directly relevant to data analysis; 2.4 years of experience in a leadership or supervisory capacity; an employment gap of 1 months.
+
+Technical Skills
+SQL skill score: 74/100. Python/R skill score: 72/100. Data visualisation skill score: 29/100. Excel skill score: 85/100. General technical skill score: 51/100. Job-specific skills demonstrated: 4.
+
+Assessment Results
+Assessment score: 88/100. Analytical reasoning score: 67/100. Communication score: 52/100.
+
+Relevant Certifications
+Holds: Excel Advanced Certification, Statistics for Data Analysis Certificate.",Borderline
+BASE_0702,Bachelor's degree,Economics,6.7,0.9,77,91,69,79,67,77,72,62,5.0,2,3,8,66.8,Not Qualified,Borderline,"Education
+Bachelor's degree in Economics.
+
+Professional Experience
+The candidate has 6.7 years of total professional experience; 0.9 years of experience directly relevant to data analysis; 5.0 years of experience in a leadership or supervisory capacity; an employment gap of 2 months.
+
+Technical Skills
+SQL skill score: 91/100. Python/R skill score: 69/100. Data visualisation skill score: 79/100. Excel skill score: 67/100. General technical skill score: 77/100. Job-specific skills demonstrated: 8.
+
+Assessment Results
+Assessment score: 72/100. Analytical reasoning score: 62/100. Communication score: 77/100.
+
+Relevant Certifications
+Holds: Data Analytics Professional Certificate, Data Visualisation Certificate, SQL Proficiency Certification.",Borderline
+BASE_0069,Bachelor's degree,Computer Science,13.7,3.7,86,68,81,72,68,89,82,73,1.5,0,0,3,71.18,Qualified,Borderline,"Education
+Bachelor's degree in Computer Science.
+
+Professional Experience
+The candidate has 13.7 years of total professional experience; 3.7 years of experience directly relevant to data analysis; 1.5 years of experience in a leadership or supervisory capacity.
+
+Technical Skills
+SQL skill score: 68/100. Python/R skill score: 81/100. Data visualisation skill score: 72/100. Excel skill score: 68/100. General technical skill score: 86/100. Job-specific skills demonstrated: 3.
+
+Assessment Results
+Assessment score: 82/100. Analytical reasoning score: 73/100. Communication score: 89/100.
+
+Relevant Certifications
+No formal certifications beyond the stated education.",Borderline
+BASE_1568,Bachelor's degree,Economics,2.3,1.2,71,62,55,83,86,100,74,77,0.3,16,1,5,69.2,Not Qualified,Borderline,"Education
+Bachelor's degree in Economics.
+
+Professional Experience
+The candidate has 2.3 years of total professional experience; 1.2 years of experience directly relevant to data analysis; an employment gap of 16 months.
+
+Technical Skills
+SQL skill score: 62/100. Python/R skill score: 55/100. Data visualisation skill score: 83/100. Excel skill score: 86/100. General technical skill score: 71/100. Job-specific skills demonstrated: 5.
+
+Assessment Results
+Assessment score: 74/100. Analytical reasoning score: 77/100. Communication score: 100/100.
+
+Relevant Certifications
+Holds: Data Analytics Professional Certificate.",Borderline
+BASE_1534,Master's degree,Computer Science,5.2,4.6,59,80,58,57,69,77,81,63,3.3,5,1,0,66.68,Not Qualified,Borderline,"Education
+Master's degree in Computer Science.
+
+Professional Experience
+The candidate has 5.2 years of total professional experience; 4.6 years of experience directly relevant to data analysis; 3.3 years of experience in a leadership or supervisory capacity; an employment gap of 5 months.
+
+Technical Skills
+SQL skill score: 80/100. Python/R skill score: 58/100. Data visualisation skill score: 57/100. Excel skill score: 69/100. General technical skill score: 59/100. Job-specific skills demonstrated: 0.
+
+Assessment Results
+Assessment score: 81/100. Analytical reasoning score: 63/100. Communication score: 77/100.
+
+Relevant Certifications
+Holds: SQL Proficiency Certification.",Borderline
+BASE_1638,Equivalent experience / alternative pathway,Computer Science,10.7,7.4,64,54,84,87,73,73,80,89,0.6,0,1,5,75.77,Qualified,High,"Education
+Equivalent experience / alternative pathway in Computer Science.
+
+Professional Experience
+The candidate has 10.7 years of total professional experience; 7.4 years of experience directly relevant to data analysis; 0.6 years of experience in a leadership or supervisory capacity.
+
+Technical Skills
+SQL skill score: 54/100. Python/R skill score: 84/100. Data visualisation skill score: 87/100. Excel skill score: 73/100. General technical skill score: 64/100. Job-specific skills demonstrated: 5.
+
+Assessment Results
+Assessment score: 80/100. Analytical reasoning score: 89/100. Communication score: 73/100.
+
+Relevant Certifications
+Holds: SQL Proficiency Certification.",High
+BASE_1337,Bachelor's degree,Economics,10.4,9.9,62,78,77,63,98,85,78,67,0.8,10,0,6,77.35,Qualified,High,"Education
+Bachelor's degree in Economics.
+
+Professional Experience
+The candidate has 10.4 years of total professional experience; 9.9 years of experience directly relevant to data analysis; 0.8 years of experience in a leadership or supervisory capacity; an employment gap of 10 months.
+
+Technical Skills
+SQL skill score: 78/100. Python/R skill score: 77/100. Data visualisation skill score: 63/100. Excel skill score: 98/100. General technical skill score: 62/100. Job-specific skills demonstrated: 6.
+
+Assessment Results
+Assessment score: 78/100. Analytical reasoning score: 67/100. Communication score: 85/100.
+
+Relevant Certifications
+No formal certifications beyond the stated education.",High
+BASE_0681,Bachelor's degree,Engineering,14.2,7.2,75,72,100,86,79,85,91,85,0.1,0,1,1,82.45,Qualified,High,"Education
+Bachelor's degree in Engineering.
+
+Professional Experience
+The candidate has 14.2 years of total professional experience; 7.2 years of experience directly relevant to data analysis.
+
+Technical Skills
+SQL skill score: 72/100. Python/R skill score: 100/100. Data visualisation skill score: 86/100. Excel skill score: 79/100. General technical skill score: 75/100. Job-specific skills demonstrated: 1.
+
+Assessment Results
+Assessment score: 91/100. Analytical reasoning score: 85/100. Communication score: 85/100.
+
+Relevant Certifications
+Holds: Data Visualisation Certificate.",High
+BASE_1788,Master's degree,Data Science,12.2,10.4,88,82,90,82,100,89,84,78,3.3,0,1,3,85.27,Qualified,High,"Education
+Master's degree in Data Science.
+
+Professional Experience
+The candidate has 12.2 years of total professional experience; 10.4 years of experience directly relevant to data analysis; 3.3 years of experience in a leadership or supervisory capacity.
+
+Technical Skills
+SQL skill score: 82/100. Python/R skill score: 90/100. Data visualisation skill score: 82/100. Excel skill score: 100/100. General technical skill score: 88/100. Job-specific skills demonstrated: 3.
+
+Assessment Results
+Assessment score: 84/100. Analytical reasoning score: 78/100. Communication score: 89/100.
+
+Relevant Certifications
+Holds: Statistics for Data Analysis Certificate.",High

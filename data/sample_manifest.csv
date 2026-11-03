@@ -1,0 +1,201 @@
+base_profile_id,sampling_seed,quality_band,candidate_quality_score,qualification_status
+BASE_0003,42,High,80.1,Qualified
+BASE_0009,42,Low,55.72,Not Qualified
+BASE_0037,42,Borderline,74.27,Qualified
+BASE_0055,42,High,79.82,Qualified
+BASE_0060,42,Borderline,62.63,Not Qualified
+BASE_0061,42,Borderline,68.73,Not Qualified
+BASE_0066,42,Borderline,69.87,Not Qualified
+BASE_0069,42,Borderline,71.18,Qualified
+BASE_0073,42,Borderline,66.13,Not Qualified
+BASE_0076,42,Borderline,72.03,Qualified
+BASE_0078,42,Low,51.75,Not Qualified
+BASE_0080,42,Borderline,63.87,Not Qualified
+BASE_0095,42,Borderline,60.47,Not Qualified
+BASE_0103,42,Borderline,61.57,Not Qualified
+BASE_0105,42,Borderline,69.27,Not Qualified
+BASE_0111,42,Low,48.7,Not Qualified
+BASE_0113,42,High,75.78,Qualified
+BASE_0115,42,Borderline,74.38,Qualified
+BASE_0123,42,Borderline,66.53,Not Qualified
+BASE_0149,42,Borderline,68.38,Not Qualified
+BASE_0158,42,Borderline,66.07,Not Qualified
+BASE_0161,42,Borderline,62.07,Not Qualified
+BASE_0162,42,Low,59.72,Not Qualified
+BASE_0166,42,Borderline,73.1,Qualified
+BASE_0177,42,Borderline,68.2,Not Qualified
+BASE_0185,42,Borderline,64.23,Not Qualified
+BASE_0222,42,Low,52.42,Not Qualified
+BASE_0225,42,Borderline,73.43,Qualified
+BASE_0236,42,High,75.07,Qualified
+BASE_0239,42,Borderline,70.62,Qualified
+BASE_0241,42,Borderline,63.93,Not Qualified
+BASE_0245,42,Borderline,62.3,Not Qualified
+BASE_0268,42,Low,59.58,Not Qualified
+BASE_0280,42,Borderline,64.37,Not Qualified
+BASE_0282,42,Low,58.9,Not Qualified
+BASE_0283,42,High,83.87,Qualified
+BASE_0292,42,Borderline,68.02,Not Qualified
+BASE_0310,42,Borderline,74.9,Qualified
+BASE_0322,42,High,78.07,Qualified
+BASE_0325,42,Low,54.57,Not Qualified
+BASE_0328,42,High,81.37,Qualified
+BASE_0336,42,Borderline,69.38,Not Qualified
+BASE_0367,42,Borderline,73.68,Qualified
+BASE_0369,42,Borderline,60.18,Not Qualified
+BASE_0380,42,Borderline,61.38,Not Qualified
+BASE_0381,42,High,77.35,Qualified
+BASE_0389,42,Borderline,70.97,Qualified
+BASE_0407,42,Low,58.65,Not Qualified
+BASE_0409,42,High,75.38,Qualified
+BASE_0413,42,High,79.93,Qualified
+BASE_0419,42,Low,36.25,Not Qualified
+BASE_0421,42,Low,49.2,Not Qualified
+BASE_0423,42,Low,57.1,Not Qualified
+BASE_0428,42,Borderline,74.6,Qualified
+BASE_0431,42,Borderline,63.85,Not Qualified
+BASE_0435,42,High,76.82,Qualified
+BASE_0443,42,Borderline,64.88,Not Qualified
+BASE_0451,42,High,75.12,Qualified
+BASE_0462,42,Borderline,70.8,Qualified
+BASE_0469,42,Borderline,65.3,Not Qualified
+BASE_0478,42,Borderline,74.15,Qualified
+BASE_0486,42,High,76.1,Qualified
+BASE_0488,42,Low,56.83,Not Qualified
+BASE_0512,42,Borderline,73.33,Qualified
+BASE_0522,42,Borderline,69.32,Not Qualified
+BASE_0534,42,Borderline,67.23,Not Qualified
+BASE_0544,42,Borderline,65.08,Not Qualified
+BASE_0564,42,Borderline,61.55,Not Qualified
+BASE_0581,42,Low,58.05,Not Qualified
+BASE_0592,42,Borderline,64.42,Not Qualified
+BASE_0598,42,Borderline,62.93,Not Qualified
+BASE_0605,42,Borderline,70.13,Qualified
+BASE_0618,42,Borderline,71.88,Qualified
+BASE_0621,42,Low,59.95,Not Qualified
+BASE_0631,42,High,84.22,Qualified
+BASE_0641,42,Borderline,63.58,Not Qualified
+BASE_0645,42,Borderline,68.37,Not Qualified
+BASE_0670,42,Low,50.58,Not Qualified
+BASE_0674,42,Borderline,72.45,Qualified
+BASE_0681,42,High,82.45,Qualified
+BASE_0684,42,Low,57.83,Not Qualified
+BASE_0689,42,Borderline,70.68,Qualified
+BASE_0692,42,Borderline,67.42,Not Qualified
+BASE_0701,42,High,84.13,Qualified
+BASE_0702,42,Borderline,66.8,Not Qualified
+BASE_0705,42,Low,48.8,Not Qualified
+BASE_0714,42,Borderline,63.15,Not Qualified
+BASE_0741,42,Borderline,69.58,Not Qualified
+BASE_0746,42,Borderline,60.12,Not Qualified
+BASE_0752,42,Borderline,70.43,Qualified
+BASE_0782,42,Borderline,67.38,Not Qualified
+BASE_0786,42,High,78.45,Qualified
+BASE_0811,42,Borderline,69.7,Not Qualified
+BASE_0815,42,Low,59.07,Not Qualified
+BASE_0842,42,Borderline,64.47,Not Qualified
+BASE_0853,42,Borderline,67.37,Not Qualified
+BASE_0862,42,Borderline,66.53,Not Qualified
+BASE_0873,42,Borderline,65.4,Not Qualified
+BASE_0875,42,Low,59.5,Not Qualified
+BASE_0879,42,Borderline,63.65,Not Qualified
+BASE_0895,42,Borderline,73.92,Qualified
+BASE_0900,42,High,75.93,Qualified
+BASE_0924,42,High,77.78,Qualified
+BASE_0925,42,Borderline,70.87,Qualified
+BASE_0935,42,Borderline,61.6,Not Qualified
+BASE_0948,42,High,81.4,Qualified
+BASE_0950,42,Low,59.37,Not Qualified
+BASE_0964,42,Borderline,64.5,Not Qualified
+BASE_0976,42,Borderline,63.13,Not Qualified
+BASE_0986,42,Borderline,66.12,Not Qualified
+BASE_1004,42,High,78.88,Qualified
+BASE_1008,42,Low,56.68,Not Qualified
+BASE_1062,42,Low,52.3,Not Qualified
+BASE_1086,42,Borderline,66.12,Not Qualified
+BASE_1087,42,High,76.6,Qualified
+BASE_1106,42,Borderline,67.2,Not Qualified
+BASE_1124,42,High,76.72,Qualified
+BASE_1136,42,Borderline,62.47,Not Qualified
+BASE_1149,42,Borderline,73.18,Qualified
+BASE_1168,42,Low,57.77,Not Qualified
+BASE_1175,42,Borderline,62.45,Not Qualified
+BASE_1183,42,Borderline,62.65,Not Qualified
+BASE_1186,42,Borderline,70.57,Qualified
+BASE_1187,42,Borderline,66.27,Not Qualified
+BASE_1190,42,High,78.28,Qualified
+BASE_1197,42,Borderline,66.75,Not Qualified
+BASE_1198,42,Borderline,65.58,Not Qualified
+BASE_1201,42,High,76.53,Qualified
+BASE_1202,42,Borderline,73.62,Qualified
+BASE_1220,42,Low,47.65,Not Qualified
+BASE_1255,42,Borderline,69.45,Not Qualified
+BASE_1256,42,Borderline,68.82,Not Qualified
+BASE_1269,42,High,77.08,Qualified
+BASE_1284,42,Low,58.62,Not Qualified
+BASE_1286,42,Borderline,69.3,Not Qualified
+BASE_1287,42,Low,50.6,Not Qualified
+BASE_1303,42,Borderline,66.23,Not Qualified
+BASE_1309,42,Borderline,66.7,Not Qualified
+BASE_1310,42,High,75.88,Qualified
+BASE_1324,42,Low,54.55,Not Qualified
+BASE_1325,42,Borderline,67.97,Not Qualified
+BASE_1337,42,High,77.35,Qualified
+BASE_1357,42,Borderline,69.55,Not Qualified
+BASE_1358,42,Borderline,60.28,Not Qualified
+BASE_1365,42,High,80.15,Qualified
+BASE_1367,42,High,81.43,Qualified
+BASE_1377,42,Borderline,73.63,Qualified
+BASE_1381,42,Low,56.78,Not Qualified
+BASE_1388,42,Low,58.97,Not Qualified
+BASE_1400,42,Low,53.07,Not Qualified
+BASE_1404,42,Low,58.6,Not Qualified
+BASE_1429,42,High,85.17,Qualified
+BASE_1430,42,Borderline,71.98,Qualified
+BASE_1433,42,Borderline,74.02,Qualified
+BASE_1437,42,Borderline,61.58,Not Qualified
+BASE_1442,42,High,83.58,Qualified
+BASE_1445,42,Low,55.45,Not Qualified
+BASE_1448,42,Borderline,65.07,Not Qualified
+BASE_1451,42,Low,54.23,Not Qualified
+BASE_1453,42,High,77.13,Qualified
+BASE_1457,42,Borderline,68.28,Not Qualified
+BASE_1478,42,Borderline,61.43,Not Qualified
+BASE_1494,42,Borderline,62.67,Not Qualified
+BASE_1498,42,Borderline,69.23,Not Qualified
+BASE_1534,42,Borderline,66.68,Not Qualified
+BASE_1547,42,High,85.48,Qualified
+BASE_1551,42,Borderline,68.15,Not Qualified
+BASE_1568,42,Borderline,69.2,Not Qualified
+BASE_1588,42,Borderline,69.37,Not Qualified
+BASE_1589,42,High,78.6,Qualified
+BASE_1590,42,Low,55.57,Not Qualified
+BASE_1624,42,Borderline,70.45,Qualified
+BASE_1638,42,High,75.77,Qualified
+BASE_1650,42,Borderline,65.23,Not Qualified
+BASE_1657,42,Borderline,71.28,Qualified
+BASE_1660,42,High,80.28,Qualified
+BASE_1674,42,Borderline,73.35,Qualified
+BASE_1707,42,Borderline,72.07,Qualified
+BASE_1708,42,Borderline,72.85,Qualified
+BASE_1723,42,Borderline,65.47,Not Qualified
+BASE_1743,42,Borderline,64.4,Not Qualified
+BASE_1783,42,Low,59.12,Not Qualified
+BASE_1788,42,High,85.27,Qualified
+BASE_1829,42,Borderline,65.57,Not Qualified
+BASE_1835,42,Borderline,66.25,Not Qualified
+BASE_1861,42,Low,56.25,Not Qualified
+BASE_1868,42,Borderline,61.92,Not Qualified
+BASE_1895,42,Borderline,63.85,Not Qualified
+BASE_1907,42,High,86.9,Qualified
+BASE_1914,42,Low,56.78,Not Qualified
+BASE_1917,42,Low,58.47,Not Qualified
+BASE_1921,42,Low,43.83,Not Qualified
+BASE_1926,42,Borderline,66.98,Not Qualified
+BASE_1949,42,Borderline,66.07,Not Qualified
+BASE_1956,42,Borderline,64.0,Not Qualified
+BASE_1981,42,Borderline,69.05,Not Qualified
+BASE_1982,42,Borderline,69.65,Not Qualified
+BASE_1983,42,High,80.93,Qualified
+BASE_1989,42,Borderline,65.45,Not Qualified
+BASE_1991,42,Borderline,68.47,Not Qualified

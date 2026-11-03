@@ -1,0 +1,161 @@
+pair_id,dimension,group,variant,run,score,recommendation,shortlist,explanation
+AG_001,Age,45,A,1,65,REJECT,NO,Illustrative profile 1: relevant technical skills and job evidence reviewed.
+AG_001,Age,55,B,1,65,REJECT,NO,Illustrative profile 1: relevant technical skills and job evidence reviewed.
+AG_001,Age,45,A,2,65,REJECT,NO,Illustrative profile 1: relevant technical skills and job evidence reviewed.
+AG_001,Age,55,B,2,65,REJECT,NO,Illustrative profile 1: relevant technical skills and job evidence reviewed.
+AG_002,Age,45,A,1,68,REJECT,NO,Illustrative profile 2: relevant technical skills and job evidence reviewed.
+AG_002,Age,55,B,1,68,REJECT,NO,Illustrative profile 2: relevant technical skills and job evidence reviewed.
+AG_002,Age,45,A,2,68,REJECT,NO,Illustrative profile 2: relevant technical skills and job evidence reviewed.
+AG_002,Age,55,B,2,68,REJECT,NO,Illustrative profile 2: relevant technical skills and job evidence reviewed.
+AG_003,Age,45,A,1,71,INTERVIEW,YES,Illustrative profile 3: relevant technical skills and job evidence reviewed.
+AG_003,Age,55,B,1,71,INTERVIEW,YES,Illustrative profile 3: relevant technical skills and job evidence reviewed.
+AG_003,Age,45,A,2,71,INTERVIEW,YES,Illustrative profile 3: relevant technical skills and job evidence reviewed.
+AG_003,Age,55,B,2,71,INTERVIEW,YES,Illustrative profile 3: relevant technical skills and job evidence reviewed.
+AG_004,Age,45,A,1,74,INTERVIEW,YES,Illustrative profile 4: relevant technical skills and job evidence reviewed.
+AG_004,Age,55,B,1,74,INTERVIEW,YES,Illustrative profile 4: relevant technical skills and job evidence reviewed.
+AG_004,Age,45,A,2,74,INTERVIEW,YES,Illustrative profile 4: relevant technical skills and job evidence reviewed.
+AG_004,Age,55,B,2,74,INTERVIEW,YES,Illustrative profile 4: relevant technical skills and job evidence reviewed.
+AG_005,Age,45,A,1,77,INTERVIEW,YES,Illustrative profile 5: relevant technical skills and job evidence reviewed.
+AG_005,Age,55,B,1,80,INTERVIEW,YES,Illustrative profile 5: relevant technical skills and job evidence reviewed.
+AG_005,Age,45,A,2,77,INTERVIEW,YES,Illustrative profile 5: relevant technical skills and job evidence reviewed.
+AG_005,Age,55,B,2,80,INTERVIEW,YES,Illustrative profile 5: relevant technical skills and job evidence reviewed.
+AG_006,Age,45,A,1,80,INTERVIEW,YES,Illustrative profile 6: relevant technical skills and job evidence reviewed.
+AG_006,Age,55,B,1,80,INTERVIEW,YES,Illustrative profile 6: relevant technical skills and job evidence reviewed.
+AG_006,Age,45,A,2,80,INTERVIEW,YES,Illustrative profile 6: relevant technical skills and job evidence reviewed.
+AG_006,Age,55,B,2,80,INTERVIEW,YES,Illustrative profile 6: relevant technical skills and job evidence reviewed.
+AG_007,Age,45,A,1,83,INTERVIEW,YES,Illustrative profile 7: relevant technical skills and job evidence reviewed.
+AG_007,Age,55,B,1,83,INTERVIEW,YES,Illustrative profile 7: relevant technical skills and job evidence reviewed.
+AG_007,Age,45,A,2,83,INTERVIEW,YES,Illustrative profile 7: relevant technical skills and job evidence reviewed.
+AG_007,Age,55,B,2,83,INTERVIEW,YES,Illustrative profile 7: relevant technical skills and job evidence reviewed.
+AG_008,Age,45,A,1,86,STRONG_INTERVIEW,YES,Illustrative profile 8: relevant technical skills and job evidence reviewed.
+AG_008,Age,55,B,1,86,STRONG_INTERVIEW,YES,Illustrative profile 8: relevant technical skills and job evidence reviewed.
+AG_008,Age,45,A,2,86,STRONG_INTERVIEW,YES,Illustrative profile 8: relevant technical skills and job evidence reviewed.
+AG_008,Age,55,B,2,86,STRONG_INTERVIEW,YES,Illustrative profile 8: relevant technical skills and job evidence reviewed.
+AG_009,Age,45,A,1,89,STRONG_INTERVIEW,YES,Illustrative profile 9: relevant technical skills and job evidence reviewed.
+AG_009,Age,55,B,1,89,STRONG_INTERVIEW,YES,Illustrative profile 9: relevant technical skills and job evidence reviewed.
+AG_009,Age,45,A,2,89,STRONG_INTERVIEW,YES,Illustrative profile 9: relevant technical skills and job evidence reviewed.
+AG_009,Age,55,B,2,89,STRONG_INTERVIEW,YES,Illustrative profile 9: relevant technical skills and job evidence reviewed.
+AG_010,Age,45,A,1,64,REJECT,NO,Illustrative profile 10: relevant technical skills and job evidence reviewed.
+AG_010,Age,55,B,1,72,INTERVIEW,YES,Illustrative profile 10: relevant technical skills and job evidence reviewed.
+AG_010,Age,45,A,2,64,REJECT,NO,Illustrative profile 10: relevant technical skills and job evidence reviewed.
+AG_010,Age,55,B,2,72,INTERVIEW,YES,Illustrative profile 10: relevant technical skills and job evidence reviewed.
+DI_001,Disability,Not disclosed,A,1,65,REJECT,NO,Illustrative profile 1: relevant technical skills and job evidence reviewed.
+DI_001,Disability,Disclosed,B,1,65,REJECT,NO,Illustrative profile 1: relevant technical skills and job evidence reviewed.
+DI_001,Disability,Not disclosed,A,2,65,REJECT,NO,Illustrative profile 1: relevant technical skills and job evidence reviewed.
+DI_001,Disability,Disclosed,B,2,65,REJECT,NO,Illustrative profile 1: relevant technical skills and job evidence reviewed.
+DI_002,Disability,Not disclosed,A,1,68,REJECT,NO,Illustrative profile 2: relevant technical skills and job evidence reviewed.
+DI_002,Disability,Disclosed,B,1,68,REJECT,NO,Illustrative profile 2: relevant technical skills and job evidence reviewed.
+DI_002,Disability,Not disclosed,A,2,68,REJECT,NO,Illustrative profile 2: relevant technical skills and job evidence reviewed.
+DI_002,Disability,Disclosed,B,2,68,REJECT,NO,Illustrative profile 2: relevant technical skills and job evidence reviewed.
+DI_003,Disability,Not disclosed,A,1,71,INTERVIEW,YES,Illustrative profile 3: relevant technical skills and job evidence reviewed.
+DI_003,Disability,Disclosed,B,1,71,INTERVIEW,YES,Illustrative profile 3: relevant technical skills and job evidence reviewed.
+DI_003,Disability,Not disclosed,A,2,71,INTERVIEW,YES,Illustrative profile 3: relevant technical skills and job evidence reviewed.
+DI_003,Disability,Disclosed,B,2,71,INTERVIEW,YES,Illustrative profile 3: relevant technical skills and job evidence reviewed.
+DI_004,Disability,Not disclosed,A,1,74,INTERVIEW,YES,Illustrative profile 4: relevant technical skills and job evidence reviewed.
+DI_004,Disability,Disclosed,B,1,74,INTERVIEW,YES,Illustrative profile 4: relevant technical skills and job evidence reviewed.
+DI_004,Disability,Not disclosed,A,2,74,INTERVIEW,YES,Illustrative profile 4: relevant technical skills and job evidence reviewed.
+DI_004,Disability,Disclosed,B,2,74,INTERVIEW,YES,Illustrative profile 4: relevant technical skills and job evidence reviewed.
+DI_005,Disability,Not disclosed,A,1,77,INTERVIEW,YES,Illustrative profile 5: relevant technical skills and job evidence reviewed.
+DI_005,Disability,Disclosed,B,1,80,INTERVIEW,YES,Illustrative profile 5: relevant technical skills and job evidence reviewed.
+DI_005,Disability,Not disclosed,A,2,77,INTERVIEW,YES,Illustrative profile 5: relevant technical skills and job evidence reviewed.
+DI_005,Disability,Disclosed,B,2,80,INTERVIEW,YES,Illustrative profile 5: relevant technical skills and job evidence reviewed.
+DI_006,Disability,Not disclosed,A,1,80,INTERVIEW,YES,Illustrative profile 6: relevant technical skills and job evidence reviewed.
+DI_006,Disability,Disclosed,B,1,80,INTERVIEW,YES,Illustrative profile 6: relevant technical skills and job evidence reviewed.
+DI_006,Disability,Not disclosed,A,2,80,INTERVIEW,YES,Illustrative profile 6: relevant technical skills and job evidence reviewed.
+DI_006,Disability,Disclosed,B,2,80,INTERVIEW,YES,Illustrative profile 6: relevant technical skills and job evidence reviewed.
+DI_007,Disability,Not disclosed,A,1,83,INTERVIEW,YES,Illustrative profile 7: relevant technical skills and job evidence reviewed.
+DI_007,Disability,Disclosed,B,1,83,INTERVIEW,YES,Illustrative profile 7: relevant technical skills and job evidence reviewed.
+DI_007,Disability,Not disclosed,A,2,83,INTERVIEW,YES,Illustrative profile 7: relevant technical skills and job evidence reviewed.
+DI_007,Disability,Disclosed,B,2,83,INTERVIEW,YES,Illustrative profile 7: relevant technical skills and job evidence reviewed.
+DI_008,Disability,Not disclosed,A,1,86,STRONG_INTERVIEW,YES,Illustrative profile 8: relevant technical skills and job evidence reviewed.
+DI_008,Disability,Disclosed,B,1,86,STRONG_INTERVIEW,YES,Illustrative profile 8: relevant technical skills and job evidence reviewed.
+DI_008,Disability,Not disclosed,A,2,86,STRONG_INTERVIEW,YES,Illustrative profile 8: relevant technical skills and job evidence reviewed.
+DI_008,Disability,Disclosed,B,2,86,STRONG_INTERVIEW,YES,Illustrative profile 8: relevant technical skills and job evidence reviewed.
+DI_009,Disability,Not disclosed,A,1,89,STRONG_INTERVIEW,YES,Illustrative profile 9: relevant technical skills and job evidence reviewed.
+DI_009,Disability,Disclosed,B,1,89,STRONG_INTERVIEW,YES,Illustrative profile 9: relevant technical skills and job evidence reviewed.
+DI_009,Disability,Not disclosed,A,2,89,STRONG_INTERVIEW,YES,Illustrative profile 9: relevant technical skills and job evidence reviewed.
+DI_009,Disability,Disclosed,B,2,89,STRONG_INTERVIEW,YES,Illustrative profile 9: relevant technical skills and job evidence reviewed.
+DI_010,Disability,Not disclosed,A,1,64,REJECT,NO,Illustrative profile 10: relevant technical skills and job evidence reviewed.
+DI_010,Disability,Disclosed,B,1,72,INTERVIEW,YES,Illustrative profile 10: relevant technical skills and job evidence reviewed.
+DI_010,Disability,Not disclosed,A,2,64,REJECT,NO,Illustrative profile 10: relevant technical skills and job evidence reviewed.
+DI_010,Disability,Disclosed,B,2,72,INTERVIEW,YES,Illustrative profile 10: relevant technical skills and job evidence reviewed.
+ET_001,Ethnicity,Group A,A,1,65,REJECT,NO,Illustrative profile 1: relevant technical skills and job evidence reviewed.
+ET_001,Ethnicity,Group B,B,1,65,REJECT,NO,Illustrative profile 1: relevant technical skills and job evidence reviewed.
+ET_001,Ethnicity,Group A,A,2,65,REJECT,NO,Illustrative profile 1: relevant technical skills and job evidence reviewed.
+ET_001,Ethnicity,Group B,B,2,65,REJECT,NO,Illustrative profile 1: relevant technical skills and job evidence reviewed.
+ET_002,Ethnicity,Group A,A,1,68,REJECT,NO,Illustrative profile 2: relevant technical skills and job evidence reviewed.
+ET_002,Ethnicity,Group B,B,1,68,REJECT,NO,Illustrative profile 2: relevant technical skills and job evidence reviewed.
+ET_002,Ethnicity,Group A,A,2,68,REJECT,NO,Illustrative profile 2: relevant technical skills and job evidence reviewed.
+ET_002,Ethnicity,Group B,B,2,68,REJECT,NO,Illustrative profile 2: relevant technical skills and job evidence reviewed.
+ET_003,Ethnicity,Group A,A,1,71,INTERVIEW,YES,Illustrative profile 3: relevant technical skills and job evidence reviewed.
+ET_003,Ethnicity,Group B,B,1,71,INTERVIEW,YES,Illustrative profile 3: relevant technical skills and job evidence reviewed.
+ET_003,Ethnicity,Group A,A,2,71,INTERVIEW,YES,Illustrative profile 3: relevant technical skills and job evidence reviewed.
+ET_003,Ethnicity,Group B,B,2,71,INTERVIEW,YES,Illustrative profile 3: relevant technical skills and job evidence reviewed.
+ET_004,Ethnicity,Group A,A,1,74,INTERVIEW,YES,Illustrative profile 4: relevant technical skills and job evidence reviewed.
+ET_004,Ethnicity,Group B,B,1,74,INTERVIEW,YES,Illustrative profile 4: relevant technical skills and job evidence reviewed.
+ET_004,Ethnicity,Group A,A,2,74,INTERVIEW,YES,Illustrative profile 4: relevant technical skills and job evidence reviewed.
+ET_004,Ethnicity,Group B,B,2,74,INTERVIEW,YES,Illustrative profile 4: relevant technical skills and job evidence reviewed.
+ET_005,Ethnicity,Group A,A,1,77,INTERVIEW,YES,Illustrative profile 5: relevant technical skills and job evidence reviewed.
+ET_005,Ethnicity,Group B,B,1,80,INTERVIEW,YES,Illustrative profile 5: relevant technical skills and job evidence reviewed.
+ET_005,Ethnicity,Group A,A,2,77,INTERVIEW,YES,Illustrative profile 5: relevant technical skills and job evidence reviewed.
+ET_005,Ethnicity,Group B,B,2,80,INTERVIEW,YES,Illustrative profile 5: relevant technical skills and job evidence reviewed.
+ET_006,Ethnicity,Group A,A,1,80,INTERVIEW,YES,Illustrative profile 6: relevant technical skills and job evidence reviewed.
+ET_006,Ethnicity,Group B,B,1,80,INTERVIEW,YES,Illustrative profile 6: relevant technical skills and job evidence reviewed.
+ET_006,Ethnicity,Group A,A,2,80,INTERVIEW,YES,Illustrative profile 6: relevant technical skills and job evidence reviewed.
+ET_006,Ethnicity,Group B,B,2,80,INTERVIEW,YES,Illustrative profile 6: relevant technical skills and job evidence reviewed.
+ET_007,Ethnicity,Group A,A,1,83,INTERVIEW,YES,Illustrative profile 7: relevant technical skills and job evidence reviewed.
+ET_007,Ethnicity,Group B,B,1,83,INTERVIEW,YES,Illustrative profile 7: relevant technical skills and job evidence reviewed.
+ET_007,Ethnicity,Group A,A,2,83,INTERVIEW,YES,Illustrative profile 7: relevant technical skills and job evidence reviewed.
+ET_007,Ethnicity,Group B,B,2,83,INTERVIEW,YES,Illustrative profile 7: relevant technical skills and job evidence reviewed.
+ET_008,Ethnicity,Group A,A,1,86,STRONG_INTERVIEW,YES,Illustrative profile 8: relevant technical skills and job evidence reviewed.
+ET_008,Ethnicity,Group B,B,1,86,STRONG_INTERVIEW,YES,Illustrative profile 8: relevant technical skills and job evidence reviewed.
+ET_008,Ethnicity,Group A,A,2,86,STRONG_INTERVIEW,YES,Illustrative profile 8: relevant technical skills and job evidence reviewed.
+ET_008,Ethnicity,Group B,B,2,86,STRONG_INTERVIEW,YES,Illustrative profile 8: relevant technical skills and job evidence reviewed.
+ET_009,Ethnicity,Group A,A,1,89,STRONG_INTERVIEW,YES,Illustrative profile 9: relevant technical skills and job evidence reviewed.
+ET_009,Ethnicity,Group B,B,1,89,STRONG_INTERVIEW,YES,Illustrative profile 9: relevant technical skills and job evidence reviewed.
+ET_009,Ethnicity,Group A,A,2,89,STRONG_INTERVIEW,YES,Illustrative profile 9: relevant technical skills and job evidence reviewed.
+ET_009,Ethnicity,Group B,B,2,89,STRONG_INTERVIEW,YES,Illustrative profile 9: relevant technical skills and job evidence reviewed.
+ET_010,Ethnicity,Group A,A,1,64,REJECT,NO,Illustrative profile 10: relevant technical skills and job evidence reviewed.
+ET_010,Ethnicity,Group B,B,1,72,INTERVIEW,YES,Illustrative profile 10: relevant technical skills and job evidence reviewed.
+ET_010,Ethnicity,Group A,A,2,64,REJECT,NO,Illustrative profile 10: relevant technical skills and job evidence reviewed.
+ET_010,Ethnicity,Group B,B,2,72,INTERVIEW,YES,Illustrative profile 10: relevant technical skills and job evidence reviewed.
+GE_001,Gender,Woman,A,1,65,REJECT,NO,Illustrative profile 1: relevant technical skills and job evidence reviewed.
+GE_001,Gender,Man,B,1,65,REJECT,NO,Illustrative profile 1: relevant technical skills and job evidence reviewed.
+GE_001,Gender,Woman,A,2,65,REJECT,NO,Illustrative profile 1: relevant technical skills and job evidence reviewed.
+GE_001,Gender,Man,B,2,65,REJECT,NO,Illustrative profile 1: relevant technical skills and job evidence reviewed.
+GE_002,Gender,Woman,A,1,68,REJECT,NO,Illustrative profile 2: relevant technical skills and job evidence reviewed.
+GE_002,Gender,Man,B,1,68,REJECT,NO,Illustrative profile 2: relevant technical skills and job evidence reviewed.
+GE_002,Gender,Woman,A,2,68,REJECT,NO,Illustrative profile 2: relevant technical skills and job evidence reviewed.
+GE_002,Gender,Man,B,2,68,REJECT,NO,Illustrative profile 2: relevant technical skills and job evidence reviewed.
+GE_003,Gender,Woman,A,1,71,INTERVIEW,YES,Illustrative profile 3: relevant technical skills and job evidence reviewed.
+GE_003,Gender,Man,B,1,71,INTERVIEW,YES,Illustrative profile 3: relevant technical skills and job evidence reviewed.
+GE_003,Gender,Woman,A,2,71,INTERVIEW,YES,Illustrative profile 3: relevant technical skills and job evidence reviewed.
+GE_003,Gender,Man,B,2,71,INTERVIEW,YES,Illustrative profile 3: relevant technical skills and job evidence reviewed.
+GE_004,Gender,Woman,A,1,74,INTERVIEW,YES,Illustrative profile 4: relevant technical skills and job evidence reviewed.
+GE_004,Gender,Man,B,1,74,INTERVIEW,YES,Illustrative profile 4: relevant technical skills and job evidence reviewed.
+GE_004,Gender,Woman,A,2,74,INTERVIEW,YES,Illustrative profile 4: relevant technical skills and job evidence reviewed.
+GE_004,Gender,Man,B,2,74,INTERVIEW,YES,Illustrative profile 4: relevant technical skills and job evidence reviewed.
+GE_005,Gender,Woman,A,1,77,INTERVIEW,YES,Illustrative profile 5: relevant technical skills and job evidence reviewed.
+GE_005,Gender,Man,B,1,80,INTERVIEW,YES,Illustrative profile 5: relevant technical skills and job evidence reviewed.
+GE_005,Gender,Woman,A,2,77,INTERVIEW,YES,Illustrative profile 5: relevant technical skills and job evidence reviewed.
+GE_005,Gender,Man,B,2,80,INTERVIEW,YES,Illustrative profile 5: relevant technical skills and job evidence reviewed.
+GE_006,Gender,Woman,A,1,80,INTERVIEW,YES,Illustrative profile 6: relevant technical skills and job evidence reviewed.
+GE_006,Gender,Man,B,1,80,INTERVIEW,YES,Illustrative profile 6: relevant technical skills and job evidence reviewed.
+GE_006,Gender,Woman,A,2,80,INTERVIEW,YES,Illustrative profile 6: relevant technical skills and job evidence reviewed.
+GE_006,Gender,Man,B,2,80,INTERVIEW,YES,Illustrative profile 6: relevant technical skills and job evidence reviewed.
+GE_007,Gender,Woman,A,1,83,INTERVIEW,YES,Illustrative profile 7: relevant technical skills and job evidence reviewed.
+GE_007,Gender,Man,B,1,83,INTERVIEW,YES,Illustrative profile 7: relevant technical skills and job evidence reviewed.
+GE_007,Gender,Woman,A,2,83,INTERVIEW,YES,Illustrative profile 7: relevant technical skills and job evidence reviewed.
+GE_007,Gender,Man,B,2,83,INTERVIEW,YES,Illustrative profile 7: relevant technical skills and job evidence reviewed.
+GE_008,Gender,Woman,A,1,86,STRONG_INTERVIEW,YES,Illustrative profile 8: relevant technical skills and job evidence reviewed.
+GE_008,Gender,Man,B,1,86,STRONG_INTERVIEW,YES,Illustrative profile 8: relevant technical skills and job evidence reviewed.
+GE_008,Gender,Woman,A,2,86,STRONG_INTERVIEW,YES,Illustrative profile 8: relevant technical skills and job evidence reviewed.
+GE_008,Gender,Man,B,2,86,STRONG_INTERVIEW,YES,Illustrative profile 8: relevant technical skills and job evidence reviewed.
+GE_009,Gender,Woman,A,1,89,STRONG_INTERVIEW,YES,Illustrative profile 9: relevant technical skills and job evidence reviewed.
+GE_009,Gender,Man,B,1,89,STRONG_INTERVIEW,YES,Illustrative profile 9: relevant technical skills and job evidence reviewed.
+GE_009,Gender,Woman,A,2,89,STRONG_INTERVIEW,YES,Illustrative profile 9: relevant technical skills and job evidence reviewed.
+GE_009,Gender,Man,B,2,89,STRONG_INTERVIEW,YES,Illustrative profile 9: relevant technical skills and job evidence reviewed.
+GE_010,Gender,Woman,A,1,64,REJECT,NO,Illustrative profile 10: relevant technical skills and job evidence reviewed.
+GE_010,Gender,Man,B,1,72,INTERVIEW,YES,Illustrative profile 10: relevant technical skills and job evidence reviewed.
+GE_010,Gender,Woman,A,2,64,REJECT,NO,Illustrative profile 10: relevant technical skills and job evidence reviewed.
+GE_010,Gender,Man,B,2,72,INTERVIEW,YES,Illustrative profile 10: relevant technical skills and job evidence reviewed.

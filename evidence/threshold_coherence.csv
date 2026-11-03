@@ -1,0 +1,9 @@
+model,condition,scheduled,valid,mismatches,access_mismatches
+Qwen2.5,Baseline,6723,6723,588,0
+Qwen2.5,Structured,6723,6723,363,30
+Qwen2.5,Fairness,6723,6723,165,0
+Qwen2.5,RAG,6723,6723,573,12
+Qwen3.5,Baseline,6723,6721,0,0
+Qwen3.5,Structured,6723,6719,32,32
+Qwen3.5,Fairness,6723,6719,0,0
+Qwen3.5,RAG,6723,6717,103,103

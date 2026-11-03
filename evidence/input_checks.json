@@ -1,0 +1,11 @@
+{
+  "rows": 2241,
+  "base_candidates": 200,
+  "age_rows": 641,
+  "body_invariance_violations": 0,
+  "age_experience_violations": 0,
+  "relevant_gt_total": 0,
+  "leadership_gt_total": 0,
+  "review_sample_n": 20,
+  "review_seed": 20261028
+}

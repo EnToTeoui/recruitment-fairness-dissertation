@@ -1,0 +1,14 @@
+{
+  "sample_n": 20,
+  "strata": {
+    "Low": 4,
+    "Borderline": 12,
+    "High": 4
+  },
+  "chronology_flags": 2,
+  "wording_flags": 1,
+  "unintended_cue_changes": 0,
+  "corrections": 0,
+  "post_run_exclusions": 0,
+  "human_review_completed": false
+}

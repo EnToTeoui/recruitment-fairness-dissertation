@@ -1,0 +1,54 @@
+variable_name,data_type,description,allowed_values_or_range,role_in_experiment
+base_profile_id,string,Unique identifier for one underlying (demographically-neutral) applicant,BASE_0001-BASE_2000,Key linking all demographic variants of the same underlying candidate
+variant_id,string,Unique identifier for one demographic variant of a baseline candidate (experimental dataset only),e.g. BASE_0001_G_W,Row-level unique key in the experimental dataset
+counterfactual_set_id,string,Groups the matched variants that differ only in one demographic dimension (experimental dataset only),"e.g. GENDER_BASE_0001, AGE_BASE_0001, DIS_BASE_0001, ETH_BASE_0001",Used to match candidates for counterfactual comparison
+demographic_dimension,string,Which demographic characteristic was manipulated (experimental dataset only),Gender; Age; Disability; Ethnicity,Independent variable of the experiment
+demographic_condition,string,"The specific level of the manipulated demographic characteristic (experimental dataset only) Ethnic Group A-D are arbitrary synthetic labels, not real-world ethnicity identities or validated proxies.",Woman/Man; 25/35/45/55; No disability disclosed/Disability disclosed; Ethnic Group A-D,Independent variable level
+signal_type,string,Whether the demographic cue is explicit (stated directly) or implicit (indirect cue) All current variants are explicit demographic disclosures; no implicit/name-based cues are included.,"explicit; implicit (implicit signals are a separate dataset, not included here)",Experimental design control
+education_level,string,Candidate's highest education level,Bachelor's degree; Master's degree; PhD; Professional qualification; Equivalent experience / alternative pathway,Job-relevant control variable
+degree_field,string,Field of the candidate's degree/qualification,Data Science; Computer Science; Statistics; Mathematics; Economics; Business Analytics; Finance; Engineering; Information Systems; Other quantitative discipline; Non-quantitative discipline,Job-relevant control variable
+years_total_experience,float,Total years of professional experience,0-15,Job-relevant control variable
+years_relevant_experience,float,Years of experience directly relevant to the Data Analyst role,"0-12, always <= years_total_experience",Job-relevant control variable; feeds candidate_quality_score
+technical_skill_score,integer,General technical skill score,0-100,Job-relevant control variable
+sql_skill_score,integer,SQL proficiency score,0-100,Job-relevant control variable; feeds candidate_quality_score (15%)
+python_or_r_skill_score,integer,Python or R proficiency score,0-100,Job-relevant control variable; feeds candidate_quality_score (10%)
+data_visualisation_score,integer,Data visualisation proficiency score,0-100,Job-relevant control variable; feeds candidate_quality_score (10%)
+excel_skill_score,integer,Microsoft Excel proficiency score,0-100,Job-relevant control variable; feeds candidate_quality_score (10%)
+communication_score,integer,Communication skill score,0-100,Job-relevant control variable; feeds candidate_quality_score (10%)
+assessment_score,integer,Standardised assessment/test score,0-100,Job-relevant control variable; feeds candidate_quality_score (15%)
+analytical_reasoning_score,integer,Analytical reasoning score,0-100,Job-relevant control variable; feeds candidate_quality_score (20%)
+leadership_experience_years,float,Years of leadership/supervisory experience,"0-5, always <= years_total_experience",Job-relevant control variable
+employment_gap_months,integer,Length of most recent employment gap in months,0-24,Job-relevant control variable
+certification_count,integer,Number of relevant professional certifications held,0-5,Job-relevant control variable
+job_specific_skill_count,integer,Count of distinct job-specific skills demonstrated,0-8,Job-relevant control variable
+candidate_quality_score,float,Synthetic ground-truth merit score computed from job-relevant variables only (demographic-blind),"0.00-100.00, rounded to 2 dp",Experimental ground truth / ability level
+qualification_status,string,Whether the candidate meets the quality threshold,Qualified (score >= 70); Not Qualified (score < 70),Ground truth for later true/false positive-rate calculations
+quality_band,string,Coarse merit band derived from candidate_quality_score,Low (<60); Borderline (60-<75); High (>=75),Used to study whether demographic effects concentrate near decision thresholds
+baseline_profile_text,string,Demographically-neutral synthetic CV/profile text,Free text,Source text before demographic signal is added
+experimental_profile_text,string,baseline_profile_text prefixed with the demographic signal line (experimental dataset only) Ethnicity variants display literal labels such as Ethnicity: Ethnic Group A; interpretation is limited to sensitivity to these abstract labels.,Free text,Input to be shown to the generative AI recruitment system
+result_id,string,Unique identifier for each model evaluation record,Unique nonempty string,Results primary key
+variant_id,string,Foreign key to counterfactual_inputs.variant_id,Existing variant ID,Results-to-input join key
+evaluation_run,integer,Repetition number within experiment condition,1 or greater,Repeated-trial identifier
+experiment_batch,string,Identifier for a scheduled experiment batch,Nonempty,Execution provenance
+prompt_condition,string,Prompt treatment,baseline; structured; fairness,Independent variable
+rag_condition,boolean,Whether retrieved guidance was supplied,true; false,Independent variable
+model_provider,string,API or model provider,Provider identifier,Reproducibility
+AI_model,string,Evaluated model name,Model identifier,Reproducibility
+AI_model_version,string,Exact model version or snapshot where available,Version string,Reproducibility
+temperature,float,Requested model sampling temperature,Provider-supported range,Reproducibility
+random_seed,string,"Seed if supported, otherwise blank",Seed or blank,Reproducibility
+input_prompt_hash,string,SHA-256 hash of fully rendered model input,64 hex characters,Audit trail
+prompt_template_version,string,Version of stored prompt template,Version identifier,Audit trail
+rag_knowledge_base_version,string,"Knowledge base version, blank when RAG off",Version or blank,Audit trail
+retrieved_document_ids,string,Document IDs used as retrieval context; JSON array recommended,JSON array or blank,Audit trail
+AI_score,integer,Model suitability score,0-100,Dependent variable
+AI_shortlist,string,"Binary shortlist outcome; map Interview and Strong Interview to Yes, Reject to No",Yes; No,Dependent variable
+AI_recommendation,string,Model recommendation,Reject; Interview; Strong Interview,Dependent variable
+AI_explanation,string,Model-generated explanation,Free text,Dependent variable
+response_valid,boolean,Whether model response passes schema validation,true; false,Quality control
+validation_error,string,"Reason response failed validation, blank if valid",Text or blank,Quality control
+raw_response,string,Unmodified model output,Raw text/JSON,Audit trail
+evaluation_timestamp,string,Timestamp in ISO 8601 with timezone,ISO 8601,Audit trail
+latency_ms,integer,Response latency in milliseconds,0 or greater,Operational metadata
+input_tokens,integer,Input token count when available,0 or greater or blank,Operational metadata
+output_tokens,integer,Output token count when available,0 or greater or blank,Operational metadata

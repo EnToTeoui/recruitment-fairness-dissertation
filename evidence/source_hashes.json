@@ -1,0 +1,11 @@
+{
+  "main_baseline.csv": "59cbe0ef828f4f019c064f4085f4a3c94b736c4eeddb78b57fa336d2575f6540",
+  "main_structured.csv": "1382eaa3138367a63bf079b31b970ee05984adf017176550e1cf936282644f61",
+  "main_fairness.csv": "067813f2c1f37046fc3f73668788571e711a24655c46b260fe5b4e1564811ef0",
+  "main_structured_rag.csv": "4c635bb34a53867fe16f4bfc432798e0cbcb8937785403495716f29e3c7df13b",
+  "qwen35_main_baseline.csv": "83dac80bb42ee9f750c151cfe8927bfd8e384d46eb6d03ab35085bbed3e2987b",
+  "qwen35_main_structured.csv": "aab2aa4e986f883dc9ba1c6ed2a22b87e6df78c70a940ec996e8da278b0da92c",
+  "qwen35_main_fairness.csv": "b193c1faecc7f9989f0822105f884873d37a5de61cd8742a313f0d87e0480ccf",
+  "qwen35_main_structured_rag.csv": "335e020a85670b4d78cbf68646f5926f55c11cb07620be928add9d3cf2c3e402",
+  "model_inputs.csv": "2f6dd16dc1409e895d55c59e7d8768f28ce05b7c488f5be66f920e6b7772a1d2"
+}

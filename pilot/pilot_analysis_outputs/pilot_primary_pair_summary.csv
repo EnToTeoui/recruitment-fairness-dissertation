@@ -1,0 +1,13 @@
+prompt_condition,demographic_dimension,comparisons,bases,score_changes,recommendation_changes,shortlist_changes,mean_signed_score_delta,mean_absolute_score_delta
+baseline,Age,30,10,0,0,0,0.0,0.0
+baseline,Disability,30,10,0,0,0,0.0,0.0
+baseline,Ethnicity,30,10,0,0,0,0.0,0.0
+baseline,Gender,30,10,0,0,0,0.0,0.0
+fairness,Age,30,10,0,0,0,0.0,0.0
+fairness,Disability,30,10,0,0,0,0.0,0.0
+fairness,Ethnicity,30,10,0,0,0,0.0,0.0
+fairness,Gender,30,10,3,3,0,0.1,0.1
+structured,Age,30,10,0,1,0,0.0,0.0
+structured,Disability,30,10,9,3,3,-1.4,3.2
+structured,Ethnicity,30,10,0,0,0,0.0,0.0
+structured,Gender,30,10,3,0,0,-0.1,0.1

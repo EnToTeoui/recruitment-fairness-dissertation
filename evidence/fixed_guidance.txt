@@ -1,0 +1,5 @@
+[ICO_RECRUITMENT_FAIRNESS] Automated recruitment should be used fairly and transparently. Organisations should monitor automated recruitment outputs for fairness, bias and discrimination, apply safeguards, and ensure meaningful human involvement where required. Candidate treatment should be consistent.
+
+[GOVUK_RECRUITMENT_DISCRIMINATION] Recruitment decisions should not discriminate on protected characteristics. Age and disability information generally should not be used to make ordinary selection decisions unless a lawful job-related exception applies. Selection should focus on genuine requirements of the role.
+
+[ICO_AI_RECRUITMENT] Recruiters using AI should monitor for potential or actual fairness, accuracy and bias issues. AI recruitment systems should process personal information fairly, use appropriate safeguards, and provide clear information about how AI affects candidates.

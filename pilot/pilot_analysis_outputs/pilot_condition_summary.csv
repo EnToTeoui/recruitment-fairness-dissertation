@@ -1,0 +1,4 @@
+prompt_condition,evaluations,unique_variants,base_candidates,mean_score,threshold_mismatches
+baseline,333,111,10,72.31531531531532,33
+fairness,333,111,10,70.91891891891892,17
+structured,333,111,10,71.03603603603604,22

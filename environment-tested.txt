@@ -1,0 +1,7 @@
+Package verification environment (not the historical experiment environment)
+Python 3.12.14
+Platform Linux
+numpy==2.3.5
+pandas==2.2.3
+matplotlib==3.10.8
+streamlit==1.66.1

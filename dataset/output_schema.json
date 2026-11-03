@@ -1,0 +1,28 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "AI_score",
+    "AI_recommendation",
+    "AI_explanation"
+  ],
+  "properties": {
+    "AI_score": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "AI_recommendation": {
+      "type": "string",
+      "enum": [
+        "Reject",
+        "Interview",
+        "Strong Interview"
+      ]
+    },
+    "AI_explanation": {
+      "type": "string",
+      "minLength": 1
+    }
+  }
+}

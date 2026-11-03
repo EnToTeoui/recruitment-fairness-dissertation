@@ -1,0 +1,20 @@
+{
+  "selected_ids": [
+    "ICO_RECRUITMENT_FAIRNESS",
+    "GOVUK_RECRUITMENT_DISCRIMINATION",
+    "ICO_AI_RECRUITMENT"
+  ],
+  "context_sha256": "4af1aaea03bc829430b5848bcd3a39e9736fbd266b2be0b47af3c712d3f69cee",
+  "system_sha256": "de8263803c34d87ec00c0deb37a320694b73beea7a04ecc9e3afa62cd3f1a7e2",
+  "fixed_guidance_system_equal": true,
+  "Qwen2.5": {
+    "retrieved_id_combinations": 1,
+    "prompt_hashes": 1,
+    "all_prompt_hashes_match_supplied_runner": true
+  },
+  "Qwen3.5": {
+    "retrieved_id_combinations": 1,
+    "prompt_hashes": 1,
+    "all_prompt_hashes_match_supplied_runner": true
+  }
+}

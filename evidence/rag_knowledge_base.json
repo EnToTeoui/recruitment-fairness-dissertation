@@ -1,0 +1,34 @@
+{
+  "knowledge_base_version": "1.0",
+  "retrieval_design": "fixed-query deterministic lexical retrieval",
+  "documents": [
+    {
+      "id": "ICO_RECRUITMENT_FAIRNESS",
+      "title": "ICO recruitment automation: fairness and bias monitoring",
+      "source": "Information Commissioner's Office",
+      "url": "https://ico.org.uk/about-the-ico/what-we-do/recruitment-rewired/",
+      "text": "Automated recruitment should be used fairly and transparently. Organisations should monitor automated recruitment outputs for fairness, bias and discrimination, apply safeguards, and ensure meaningful human involvement where required. Candidate treatment should be consistent."
+    },
+    {
+      "id": "ICO_AI_RECRUITMENT",
+      "title": "ICO AI recruitment procurement and bias considerations",
+      "source": "Information Commissioner's Office",
+      "url": "https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/11/thinking-of-using-ai-to-assist-recruitment-our-key-data-protection-considerations/",
+      "text": "Recruiters using AI should monitor for potential or actual fairness, accuracy and bias issues. AI recruitment systems should process personal information fairly, use appropriate safeguards, and provide clear information about how AI affects candidates."
+    },
+    {
+      "id": "GOVUK_RECRUITMENT_DISCRIMINATION",
+      "title": "UK government guidance on discrimination in recruitment",
+      "source": "GOV.UK",
+      "url": "https://www.gov.uk/employer-preventing-discrimination/recruitment",
+      "text": "Recruitment decisions should not discriminate on protected characteristics. Age and disability information generally should not be used to make ordinary selection decisions unless a lawful job-related exception applies. Selection should focus on genuine requirements of the role."
+    },
+    {
+      "id": "EQUALITY_ACT_2010_S39",
+      "title": "Equality Act 2010 section 39",
+      "source": "UK legislation",
+      "url": "https://www.legislation.gov.uk/ukpga/2010/15/section/39",
+      "text": "The Equality Act 2010 prohibits employers from discriminating against applicants in arrangements for deciding whom to employ, in employment offers, and by not offering employment."
+    }
+  ]
+}

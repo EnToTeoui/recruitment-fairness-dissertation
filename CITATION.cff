@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite the dissertation and the repository commit used."
+title: "Evaluating Bias and Fairness in Generative AI-Based Recruitment Decisions"
+type: software
+authors:
+  - family-names: Theodorou
+    given-names: Theodoros
+abstract: "Replication materials for an MSc matched-profile evaluation of demographic sensitivity in local generative recruitment assessments."
+keywords:
+  - recruitment
+  - fairness
+  - large language models
+  - matched profiles
+  - reproducibility

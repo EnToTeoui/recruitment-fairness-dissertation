@@ -1,0 +1,1 @@
+Historical exploratory pilot materials, not the final eight-condition experiment. The input CSV, analysis script and saved pilot summaries are retained. The original pilot response CSV was not recovered here; these summaries are historical evidence rather than a complete independently rerunnable pilot package.

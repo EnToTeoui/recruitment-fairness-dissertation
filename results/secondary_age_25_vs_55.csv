@@ -1,0 +1,4 @@
+prompt,base_candidates,recommendation_inconsistency_rate,mean_score_difference_55_minus_25,mean_absolute_score_difference,shortlist_inconsistency_rate
+baseline,49,0.0,0.0,0.0,0.0
+fairness,49,0.0,0.061224489795918366,0.061224489795918366,0.0
+structured,49,0.0,-0.12244897959183673,0.32653061224489793,0.0
